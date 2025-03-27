@@ -1,0 +1,109 @@
+
+.bg-element
+    position: absolute
+    width: auto
+
+.fridge
+    left: 1.25%
+    top: 34.2%
+    height: 40%
+
+.drawer
+    left: 39%
+    top: 63.5%
+    height: 9%
+
+.water
+    left: 23.6%
+    top: 54.5%
+    height: 7%
+
+.menu, .site-title
+    position: absolute
+    left: 70.5%
+    top: 10.5%
+    color: $white
+    width: 11.5%
+    height: 25%
+
+.site-title
+    font-family: $oldenburg
+
+.menu-text-container
+    height: 100%
+    width: 100%
+
+    a
+        color: $white
+
+// MENU RESPONSIVE PERSPECTIVE
+
+.menu, .site-title
+    perspective-origin: 50% 100%
+
+.menu-text-container
+    transform: rotateY(-40deg)
+    transform-style: preserve-3d
+
+@media (max-aspect-ratio: #{$bg-ratio}), (aspect-ratio: #{$bg-ratio})
+    .menu, .site-title
+        perspective: 38vw
+        font-size: 2vw
+    .menu-text-container
+        padding: 1vw
+
+@media (min-aspect-ratio: #{$bg-ratio})
+    .menu, .site-title
+        perspective: 93vh
+        font-size: 3.5vh
+    .menu-text-container
+        padding: 1.5vh
+
+
+// MENU OPACITY
+
+// @media (hover: hover)
+
+.site-title
+    opacity: 70%
+
+.bg-element
+    opacity: 0
+
+    &:hover,
+    &:focus,
+    &:focus-within,
+    &:focus-visible
+        opacity: 100%
+        cursor: pointer
+
+.menu
+    opacity: 0
+
+.menu:focus, .menu:focus-visible, .menu:focus-within
+    opacity: 70%
+
+
+.menu:hover ~ .site-title,
+.menu:focus-visible ~ .site-title,
+.bg-element:hover ~ .site-title,
+.bg-element:focus-visible ~ .site-title,
+.menu:focus ~ .site-title,
+.bg-element:focus ~ .site-title,
+.menu:focus-within ~ .site-title,
+.bg-element:focus-within ~ .site-title
+    opacity: 0
+
+.fridge:hover ~ #menu-ecrits,
+.fridge:focus-visible ~ #menu-ecrits,
+.water:hover ~ #menu-apropos,
+.water:focus-visible ~ #menu-apropos,
+.drawer:hover ~ #menu-copyright,
+.drawer:focus-visible ~ #menu-copyright,
+.water:focus ~ #menu-apropos,
+.fridge:focus ~ #menu-ecrits,
+.drawer:focus ~ #menu-copyright,
+.water:focus-within ~ #menu-apropos,
+.fridge:focus-within ~ #menu-ecrits,
+.drawer:focus-within ~ #menu-copyright
+    opacity: 70%
