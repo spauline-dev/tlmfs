@@ -1,0 +1,27 @@
+/* skip to content link for keyboard navigation */
+a#skip-to-content
+    position: absolute
+    left: -10000px
+    top: auto
+    width: 1px
+    height: 1px
+    overflow: hidden
+
+    &:focus, &:active
+        position: absolute
+        z-index: 100
+        top: 0
+        width: initial
+        height: initial
+        left: 0
+        background-color: $white
+        padding: 0.5rem
+        font-weight: bold
+        font-size: 14px
+        border: 3px solid $black
+
+a
+    text-decoration: none
+
+    &:hover
+        text-decoration: underline

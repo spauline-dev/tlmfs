@@ -1,0 +1,15 @@
+- name: écrits
+  link: /ecrits.html
+  id: menu-ecrits
+  img: fridge
+  alt: ouvrir le frigo
+- name: à propos
+  link: /apropos.html
+  id: menu-apropos
+  img: water
+  alt: ouvrir le robinet
+- name: droits d'autrice
+  link: /droitsdautrice.html
+  id: menu-copyright
+  img: drawer
+  alt: ouvrir le tiroir

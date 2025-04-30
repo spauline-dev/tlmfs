@@ -1,0 +1,22 @@
+---
+layout: default
+title: tout le monde fait semblant
+---
+<div class="image-container">
+    <div id="rotate-device-warning">
+        Meilleure expérience en format paysage
+    </div>
+    <nav class="background-image">
+        {% for item in site.data.navigation %}
+            <img alt="{{ item.alt }}" tabindex="0" class="bg-element {{ item.img }}" src="/assets/img/{{ item.img }}.png"/>
+            <div class="menu" id="{{ item.id }}">
+                <div class="menu-text-container">
+                    <a href="{{ item.link }}">{{ item.name }}</a>
+                </div>
+            </div>
+        {% endfor %}
+        <div class="site-title">
+            <div class="menu-text-container">{{ page.title }}</div>
+        </div>
+    </nav>
+</div>

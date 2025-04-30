@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="fr_FR" />
+    <meta property="og:site_name" content="tout le monde fait semblant">
+    <meta property="og:url" content="toutlemondefaitsemblant.fr" />
+    <meta property="og:title" content="tout le monde fait semblant" />
+    <meta name="description" content="des textes" />
+    <meta property="og:description" content="des textes" />
+    <!-- empty alt for better accessibility (screen reader ignores images) -->
+    <meta property="og:image:alt" content="">
+    <meta property="og:image" content="/assets/img/favicon.png" />
+    <!-- TODO fill in keywords -->
+    <meta name="keywords" content="">
+
+    <title>{{ page.title }}</title>
+
+    <link rel="shortcut icon" href="/assets/img/favicon.png">
+    <link rel="stylesheet" href="/assets/css/styles.css">
+  </head>
+  <body>
+    <a href="#main-content" id="skip-to-content">Aller au contenu principal</a>
+    <main id="main-content" class="{% if page.class %}{{ page.class }}{% else %}default{% endif %}">
+      <div class="content">
+        {% include navigation.html %}
+        {{ content }}
+      </div>
+    </main>
+  </body>
+</html>
