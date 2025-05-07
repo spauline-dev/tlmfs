@@ -1,18 +1,18 @@
-.bg-element
+.bg-element > img
     position: absolute
     width: auto
 
-.fridge
+.fridge > img
     left: 1.25%
     top: 34.2%
     height: 40%
 
-.drawer
+.drawer > img
     left: 39%
     top: 63.5%
     height: 9%
 
-.water
+.water > img
     left: 23.6%
     top: 54.5%
     height: 7%
@@ -34,6 +34,33 @@
 
     a
         color: $white
+
+.menu-text
+    height: 4rem // linked to .background-image transform value
+    margin: 0 auto -4rem auto
+    // padding: 1rem 1rem 0 1rem
+
+    display: flex
+    flex-wrap: wrap
+    gap: 1rem
+    justify-content: center
+    align-items: flex-end
+
+    a
+        padding: 5px 10px
+        border: 2px $black dashed
+        border-radius: 4px
+
+// only on touch screens
+// show text menu
+.menu-text
+    @media (hover: hover)
+        display: none
+.background-image
+    @media (hover: none)
+        max-height: calc(100% - 4rem) // linked to menu-text height
+        transform: translateY(calc(-50% + 2rem)) // linked to menu-text height / 2
+
 
 // MENU RESPONSIVE PERSPECTIVE
 
@@ -61,8 +88,6 @@
 
 // MENU OPACITY
 
-// @media (hover: hover)
-
 .site-title
     opacity: 70%
 
@@ -72,37 +97,40 @@
     &:hover,
     &:focus,
     &:focus-within,
-    &:focus-visible
+    &:focus-visible 
         opacity: 100%
         cursor: pointer
+
+    &:focus-visible > img
+        outline: 5px auto Highlight
+        outline: -webkit-focus-ring-color auto 1px  
 
 .menu
     opacity: 0
 
-.menu:focus, .menu:focus-visible, .menu:focus-within
-    opacity: 70%
-
+    &:focus, &:focus-visible, &:focus-within
+        opacity: 70%
 
 .menu:hover ~ .site-title,
-.menu:focus-visible ~ .site-title,
-.bg-element:hover ~ .site-title,
-.bg-element:focus-visible ~ .site-title,
 .menu:focus ~ .site-title,
-.bg-element:focus ~ .site-title,
+.menu:focus-visible ~ .site-title,
 .menu:focus-within ~ .site-title,
+.bg-element:hover ~ .site-title,
+.bg-element:focus ~ .site-title,
+.bg-element:focus-visible ~ .site-title,
 .bg-element:focus-within ~ .site-title
     opacity: 0
 
 .fridge:hover ~ #menu-ecrits,
-.fridge:focus-visible ~ #menu-ecrits,
-.water:hover ~ #menu-apropos,
-.water:focus-visible ~ #menu-apropos,
-.drawer:hover ~ #menu-copyright,
-.drawer:focus-visible ~ #menu-copyright,
-.water:focus ~ #menu-apropos,
 .fridge:focus ~ #menu-ecrits,
-.drawer:focus ~ #menu-copyright,
-.water:focus-within ~ #menu-apropos,
+.fridge:focus-visible ~ #menu-ecrits,
 .fridge:focus-within ~ #menu-ecrits,
+.water:hover ~ #menu-apropos,   
+.water:focus ~ #menu-apropos,
+.water:focus-visible ~ #menu-apropos,
+.water:focus-within ~ #menu-apropos,
+.drawer:hover ~ #menu-copyright,
+.drawer:focus ~ #menu-copyright,
+.drawer:focus-visible ~ #menu-copyright,
 .drawer:focus-within ~ #menu-copyright
     opacity: 70%

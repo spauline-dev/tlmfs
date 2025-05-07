@@ -3,12 +3,17 @@ layout: default
 title: tout le monde fait semblant
 ---
 <div class="image-container">
-    <div id="rotate-device-warning">
-        Meilleure expérience en format paysage
+    <div id="rotate-device-warning">meilleure expérience en format paysage</div>
+    <div class="menu-text">
+        <a>ouvrir le frigo</a>
+        <a>ouvrir le robinet</a>
+        <a>ouvrir le tiroir</a>
     </div>
     <nav class="background-image">
         {% for item in site.data.navigation %}
-            <img alt="{{ item.alt }}" tabindex="0" class="bg-element {{ item.img }}" src="/assets/img/{{ item.img }}.png"/>
+            <a href="{{ item.link }}" class="bg-element {{ item.img }}">
+                <img alt="{{ item.alt }}" src="/assets/img/{{ item.img }}.png"/>
+            </a>
             <div class="menu" id="{{ item.id }}">
                 <div class="menu-text-container">
                     <a href="{{ item.link }}">{{ item.name }}</a>
