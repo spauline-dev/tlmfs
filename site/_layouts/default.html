@@ -16,7 +16,7 @@
     <!-- TODO fill in keywords -->
     <meta name="keywords" content="">
 
-    <title>{{ page.title }}</title>
+    <title>tout le monde fait semblant | {{ page.title }}</title>
 
     <link rel="shortcut icon" href="/assets/img/favicon.png">
     <link rel="stylesheet" href="/assets/css/styles.css">
@@ -25,7 +25,6 @@
     <a href="#main-content" id="skip-to-content">Aller au contenu principal</a>
     <main id="main-content" class="{% if page.class %}{{ page.class }}{% else %}default{% endif %}">
       <div class="content">
-        {% include navigation.html %}
         {{ content }}
       </div>
     </main>

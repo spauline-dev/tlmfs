@@ -3,6 +3,9 @@ layout: default
 title: à propos
 class: apropos
 ---
-# à propos
 
+{% include navigation.html %}
+
+# à propos
+---
 à propos
