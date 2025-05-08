@@ -1,27 +1,29 @@
 ---
 layout: default
-title: tout le monde fait semblant
+title: accueil
 ---
 <div class="image-container">
     <div id="rotate-device-warning">meilleure expérience en format paysage</div>
-    <div class="menu-text">
-        <a>ouvrir le frigo</a>
-        <a>ouvrir le robinet</a>
-        <a>ouvrir le tiroir</a>
-    </div>
+    <nav class="menu-text menu-home" aria-hidden="true">
+        {% for item in site.data.navigation %}
+            {% if item.img %}
+                <a href="{{ item.link }}">{{ item.name }}</a>
+            {% endif %}
+        {% endfor %}
+    </nav>
     <nav class="background-image">
         {% for item in site.data.navigation %}
-            <a href="{{ item.link }}" class="bg-element {{ item.img }}">
-                <img alt="{{ item.alt }}" src="/assets/img/{{ item.img }}.png"/>
-            </a>
-            <div class="menu" id="{{ item.id }}">
-                <div class="menu-text-container">
-                    <a href="{{ item.link }}">{{ item.name }}</a>
+            {% if item.img %}
+                <a href="{{ item.link }}" class="bg-element {{ item.img }}">
+                    <img alt="{{ item.name }}" src="/assets/img/{{ item.img }}.png"/>
+                </a>
+                <div class="menu" id="{{ item.id }}" aria-hidden="true">
+                    <div class="menu-text-container">{{ item.name }}</div>
                 </div>
-            </div>
+            {% endif %}
         {% endfor %}
-        <div class="site-title">
-            <div class="menu-text-container">{{ page.title }}</div>
+        <div class="site-title" aria-hidden="true">
+            <div class="menu-text-container">tout le monde fait semblant</div>
         </div>
     </nav>
 </div>

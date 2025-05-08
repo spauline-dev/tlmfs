@@ -35,31 +35,77 @@
     a
         color: $white
 
-.menu-text
-    height: 4rem // linked to .background-image transform value
-    margin: 0 auto -4rem auto
-    // padding: 1rem 1rem 0 1rem
+.menu-text#main-navigation
+    width: $max-content-width
+    margin: 0 auto
+    padding: 3em 0
 
+    .page-links
+        display: flex
+        flex-wrap: wrap
+        gap: 1em
+        align-items: center
+        justify-content: flex-end
+
+    @media screen and (max-width: $max-mobile)
+        padding: 0
+        flex-direction: column-reverse
+        align-items: start
+        justify-content: start
+
+        .page-links
+            flex-direction: column
+            align-items: start
+            justify-content: start
+
+    a.home-link
+        border: none
+        padding: 0
+        img
+            height: 30px
+            padding: 3px
+            border: $dashed
+            border-radius: 50%
+
+        &:hover > img
+            -webkit-animation: $spin
+            -moz-animation: $spin
+            animation: $spin
+            border-style: solid
+
+        
+
+.menu-text
     display: flex
     flex-wrap: wrap
-    gap: 1rem
-    justify-content: center
-    align-items: flex-end
+    gap: 2em
+    align-items: center
+    justify-content: space-between
 
     a
         padding: 5px 10px
-        border: 2px $black dashed
-        border-radius: 4px
+        border: $dashed
+        border-radius: $border-radius
 
-// only on touch screens
+        &:hover
+            text-decoration: none
+            border-style: solid
+
 // show text menu
-.menu-text
+// for home page only
+// for touch screens only
+.menu-text.menu-home
+    height: 4em // linked to .background-image transform value
+    margin: 0 auto -4em auto
+    justify-content: center
+
     @media (hover: hover)
         display: none
+
 .background-image
     @media (hover: none)
-        max-height: calc(100% - 4rem) // linked to menu-text height
-        transform: translateY(calc(-50% + 2rem)) // linked to menu-text height / 2
+        max-height: calc(100% - 4em) // linked to menu-text height
+        transform: translateY(calc(-50% + 2em)) // linked to menu-text height / 2
 
 
 // MENU RESPONSIVE PERSPECTIVE
@@ -121,10 +167,10 @@
 .bg-element:focus-within ~ .site-title
     opacity: 0
 
-.fridge:hover ~ #menu-ecrits,
-.fridge:focus ~ #menu-ecrits,
-.fridge:focus-visible ~ #menu-ecrits,
-.fridge:focus-within ~ #menu-ecrits,
+.fridge:hover ~ #menu-textes,
+.fridge:focus ~ #menu-textes,
+.fridge:focus-visible ~ #menu-textes,
+.fridge:focus-within ~ #menu-textes,
 .water:hover ~ #menu-apropos,   
 .water:focus ~ #menu-apropos,
 .water:focus-visible ~ #menu-apropos,

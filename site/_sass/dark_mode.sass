@@ -1,0 +1,49 @@
+// hide darkmode checkbox
+#toggle-dark-mode
+    position: absolute
+    left: -10000px
+    top: auto
+    width: 1px
+    height: 1px
+    overflow: hidden
+
+    &:focus-visible
+        position: absolute
+        z-index: 100
+        width: initial
+        height: initial
+        left: initial
+        top: 8em
+        right: 16em
+
+label[for="toggle-dark-mode"]
+    font-size: 12px
+    &:hover
+        cursor: pointer
+        text-decoration: underline
+
+// apply darkmode when checkbox checked
+#toggle-dark-mode:checked ~ main#main-container
+    color: $beige
+    background-color: $black
+
+    a
+        color: $beige
+        &:visited, &:hover
+            color: $beige
+
+        border-color: $beige
+
+    hr
+        border-color: $beige
+
+    .textes-list
+        a
+            border-color: $beige
+
+    .menu-text
+        a, a.home-link > img
+            border-color: $beige
+
+    .texte-year, .word-count
+        color: $light-grey

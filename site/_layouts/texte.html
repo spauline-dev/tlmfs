@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+<div class="texte-infos">
+    <div class="word-count">{{ page.content | number_of_words }} mots - {{ page.content | number_of_words | divided_by: 350 }} à {{ page.content | number_of_words | divided_by: 250 }} minutes de lecture</div>
+    <div class="texte-year">{{ page.year }}</div>
+</div>
+
+<hr />
+
+{{ content }}
+

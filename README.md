@@ -46,6 +46,13 @@ The version of the site that `jekyll serve` builds in  `_site` is not suited for
 - add styles in site/_sass 
 - include all sass files in site/assets/css/styles.sass
 
+## content
+
+### how to add a text
+
+- add file to /site/pages/textes
+- update /site/_data/textes.yml
+
 ## deployment
 
 - site configuration file: https://jekyllrb.com/docs/configuration/

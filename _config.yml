@@ -6,3 +6,6 @@ data_dir            : _data
 includes_dir        : _includes
 sass:
   sass_dir: _sass
+
+kramdown:
+  hard_wrap: true

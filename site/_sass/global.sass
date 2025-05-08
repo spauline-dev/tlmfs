@@ -2,6 +2,7 @@ body
     margin: 0
     height: 100vh
     font-family: $rubik
+    color: $black
 
 main
     background-color: $beige
@@ -13,10 +14,26 @@ main
 
     &:not(.default)
         min-height: 100%
+        padding: 3em 0
+
         .content
-            width: 80%
+            width: $max-content-width
             margin: 0 auto
-            padding: 3rem 0
+            // padding: 3em 0
+
+h1, h2
+    font-family: $oldenburg
+
+h1
+    margin-top: 2em
+
+p
+    line-height: 1.5em
+
+hr
+    border: none
+    border-top: $dashed
+    margin-bottom: 2.5em
 
 .image-container
     position: relative
@@ -27,8 +44,8 @@ main
         height: 100%
 
     @media screen and (orientation: portrait)
-        padding: .5rem 0
-        height: calc(100% - 1rem)
+        padding: .5em 0
+        height: calc(100% - 1em)
   
 .background-image
     background-image: url("/assets/img/bg.png")
@@ -53,6 +70,6 @@ main
     #rotate-device-warning
         display: block
         position: absolute
-        bottom: 1rem
-        left: 1rem
+        bottom: 1em
+        left: 1em
         z-index: 10

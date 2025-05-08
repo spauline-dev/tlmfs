@@ -1,0 +1,15 @@
+---
+layout: texte
+class: texte
+title: "Henri"
+year: 2019
+slug: henri
+---
+
+Il était 4h36, ce lundi 1er janvier 2024, lorsque le chat sortit de la boîte métallique après que Nelyn ait pressé la touche ‘Entrée’ de son clavier. Et le chat était intact. Si on omettait le fait qu’il lui manquait un œil, que sa fourrure avait une couleur verdâtre et sa patte arrière droite des airs de patte de lézard, il était intact.
+La scientifique avait ouvert la porte de la boîte d’une main tremblante, s’interdisant tout soupir soulagé. Même si son chat paraissait entier, il n’était pas question de crier victoire tant qu’elle ne serait pas certaine qu’il allait bien. Tout du moins, aussi bien qu’avant qu’elle ne le soumette à son ultime expérience. Elle fut néanmoins rassurée lorsque la bestiole vint se frotter à elle en miaulant. Elle l’attrapa sous les pattes avant et le prit dans ses bras. Il n’eut pas de réaction inhabituelle ; c’est-à-dire, il lui asséna deux coups de griffes.
+« Tout va bien, Henri ? » fit-elle en le berçant doucement.
+Le chat ne répondit pas, bien entendu, puisque l’implantation d’un lecteur-transformateur d’ondes cérébrales en paroles, testé quelques mois plus tôt, n’avait pas fonctionné. Tout ce que le petit haut-parleur avait émis se résumait à un brouhaha de grésillements inintelligibles, comme une radio bloquée entre deux fréquences d’émission. Nelyn avait bien sûr envisagé que le problème ne vienne que de son chat, qui lui avait toujours paru un peu plus stupide que la moyenne, mais elle n’avait – bizarrement – trouvé personne acceptant de lui prêter un autre animal, et en adopter un n’était pas dans ses possibilités à ce moment-là.
+La chercheuse se contenta donc des ronronnements de Henri pour conclure qu’il se sentait bien. Elle lui inspecta les oreilles, les yeux, les dents, vérifia l’humidité de sa langue, le fit marcher, puis courir, lui donna à boire et à manger, garda un œil sur lui jusqu’à ce qu’il fasse ses besoins, le regarda dormir. Elle effectua ces contrôles durant une semaine, en parallèle de tests supplémentaires sur des insectes. Henri se portait comme un charme.
+Alors, le mardi 9 janvier 2024, à 9h23, elle se rendit à son laboratoire et posa son rapport sur le bureau de son directeur de recherche. Plus exactement, elle déboula en trombe aux labos et laissa lourdement tomber le bloc de 150 pages sur le bureau de Patrick qui était visiblement très occupé. Il était au téléphone et lui jeta un regard agacé en désignant d’un doigt autoritaire la porte grande ouverte. Nelyn, ignorant totalement son geste, posa sa main à plat sur son rapport, et le fit glisser vers Patrick avec insistance. Il l’interrogea du regard, fronçant les sourcils, tout en continuant de lâcher des « oui, oui, bien sûr » à son interlocuteur téléphonique. Voyant que la jeune femme n’était pas décidée à le laisser tranquille, il finit par conclure son appel d’un « Excusez-moi, je vous rappelle plus tard. » Nelyn attendit qu’il ait raccroché son téléphone, redressa fièrement les épaules et annonça d’une voix assurée :
+« J’ai inventé la téléportation. »

@@ -16,16 +16,23 @@
     <!-- TODO fill in keywords -->
     <meta name="keywords" content="">
 
-    <title>{{ page.title }}</title>
+    <title>tout le monde fait semblant | {{ page.title }}</title>
 
     <link rel="shortcut icon" href="/assets/img/favicon.png">
     <link rel="stylesheet" href="/assets/css/styles.css">
   </head>
   <body>
-    <a href="#main-content" id="skip-to-content">Aller au contenu principal</a>
-    <main id="main-content" class="{% if page.class %}{{ page.class }}{% else %}default{% endif %}">
-      <div class="content">
+      {% if page.title != "accueil" %}
+        <a href="#main-content" id="skip-to-content">Aller au contenu principal</a>
+      {% endif %}
+      {% if page.class == "texte" %}
+        <input type="checkbox" id="toggle-dark-mode" aria-hidden="true">
+      {% endif %}
+    <main id="main-container" class="{% if page.class %}{{ page.class }}{% else %}default{% endif %}">
+      {% if page.title != "accueil" %}
         {% include navigation.html %}
+      {% endif %}
+      <div class="content" id="main-content">
         {{ content }}
       </div>
     </main>
