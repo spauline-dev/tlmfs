@@ -9,6 +9,9 @@
         {% endfor %}
     </div>
     {% if page.class == "texte" %}
-        <label for="toggle-dark-mode" aria-hidden="true">affichage sombre</label>
+        <div class="reading-params">
+            <label for="toggle-dark-mode" aria-hidden="true">affichage sombre</label>
+            <label for="toggle-narrow-mode" aria-hidden="true">limiter la largeur</label>
+        </div>
     {% endif %}
 </nav>

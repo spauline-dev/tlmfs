@@ -1,27 +1,3 @@
-// hide darkmode checkbox
-#toggle-dark-mode
-    position: absolute
-    left: -10000px
-    top: auto
-    width: 1px
-    height: 1px
-    overflow: hidden
-
-    &:focus-visible
-        position: absolute
-        z-index: 100
-        width: initial
-        height: initial
-        left: initial
-        top: 8em
-        right: 16em
-
-label[for="toggle-dark-mode"]
-    font-size: 12px
-    &:hover
-        cursor: pointer
-        text-decoration: underline
-
 // apply darkmode when checkbox checked
 #toggle-dark-mode:checked ~ main#main-container
     color: $beige
