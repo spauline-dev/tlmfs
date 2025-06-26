@@ -9,7 +9,7 @@
   link: /pages/apropos.html
   id: menu-apropos
   img: water
-- name: droits d'autrice
-  link: /pages/droitsdautrice.html
-  id: menu-copyright
+- name: contact
+  link: /pages/contact.html
+  id: menu-contact
   img: drawer

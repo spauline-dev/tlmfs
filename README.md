@@ -1,5 +1,24 @@
 # tlmfs
 
+## licence
+
+Le code source de ce site est publié sous la licence [GNU General Public License v3.0](LICENSE).
+
+Cependant, les contenus rédactionnels (textes de fiction) présents sur ce site sont protégés par le droit d’auteur et ne sont **pas** couverts par la licence GPL.  
+Sauf mention contraire, ces textes ne peuvent pas être copiés, modifiés ou réutilisés sans l’autorisation explicite de l'autrice.
+
+Pour toute demande d’utilisation des textes, merci de me contacter.
+
+---
+
+The source code of this website is published under the [GNU General Public License v3.0](LICENSE).
+
+However, the editorial content (fictional texts) on this site is protected by copyright and is **not** covered by the GPL license.
+These texts may not be copied, modified, or reused without the author's explicit permission.
+
+For any requests to use these texts, please contact me.
+
+
 ## setup jekyll
 
 install ruby and bundle : https://jekyllrb.com/docs/installation/.

@@ -21,9 +21,13 @@ a#skip-to-content
         border: 3px solid $black
 
 a
-    text-decoration: none
-    &:hover
-        text-decoration: underline
+    &.underline-at-hover
+        text-decoration: none
+        &:hover
+            text-decoration: underline
+
+    &.no-underline
+        text-decoration: none
     
     color: $black
     &:visited, &:hover

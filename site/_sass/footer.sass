@@ -1,0 +1,23 @@
+footer
+    background-color: $beige
+    color: $grey
+    font-size: $font-size-small-desktop
+    @media screen and (max-width: $max-mobile)
+        font-size: $font-size-small-mobile
+
+    .footer-links
+        width: $max-content-width
+        margin: 0 auto
+        padding: 2em 0
+
+        display: flex
+        justify-content: center
+        align-items: center
+        gap: 2em
+
+        @media screen and (max-width: $max-mobile)
+            flex-direction: column
+            gap: 1em
+
+        a
+            color: $grey

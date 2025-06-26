@@ -9,7 +9,7 @@ slug: textes
 
 <div class="textes-list">
 {% for texte in site.data.textes %}
-    <a href="{{ texte.link }}">
+    <a href="{{ texte.link }}" class="no-underline">
         <div class="texte-elements">
             <h2 class="texte-title">    
                 {{ texte.title }}

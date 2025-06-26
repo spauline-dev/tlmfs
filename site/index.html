@@ -7,14 +7,14 @@ title: accueil
     <nav class="menu-text menu-home" aria-hidden="true">
         {% for item in site.data.navigation %}
             {% if item.img %}
-                <a href="{{ item.link }}">{{ item.name }}</a>
+                <a class="no-underline" href="{{ item.link }}">{{ item.name }}</a>
             {% endif %}
         {% endfor %}
     </nav>
     <nav class="background-image">
         {% for item in site.data.navigation %}
             {% if item.img %}
-                <a href="{{ item.link }}" class="bg-element {{ item.img }}">
+                <a href="{{ item.link }}" class="bg-element {{ item.img }} no-underline">
                     <img alt="{{ item.name }}" src="/assets/img/{{ item.img }}.png"/>
                 </a>
                 <div class="menu" id="{{ item.id }}" aria-hidden="true">

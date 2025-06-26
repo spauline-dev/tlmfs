@@ -1,0 +1,53 @@
+---
+layout: default
+class: mentionslegales
+title: mentions légales
+slug: mentions-legales
+---
+
+# mentions légales
+
+## textes
+
+Les textes présentés sur ce site sont purement fictionnels. Toute ressemblance avec la réalité serait purement fortuite.
+
+Les textes sont l'oeuvre unique et originale de leur autrice, et sont protégés par les droits d'auteur selon la loi française. Toute reproduction ou utilisation sans autorisation est interdite.
+
+## code source
+
+Ce site utilise un code sous licence GNU GPL v3.
+
+## cookies
+
+Ce site n'utilise aucun cookie traceur à des fins de publicité ou d’analyse.
+
+Cependant, le service GitHub Pages, qui héberge ce site, peut collecter des données techniques (comme les adresses IP ou les journaux serveur) à des fins de fonctionnement et de sécurité. Pour en savoir plus, consultez la [politique de confidentialité de GitHub](https://docs.github.com/fr/site-policy/privacy-policies/github-privacy-statement).
+
+## données personnelles
+
+Ce site peut collecter des données personnelles via le formulaire de contact. Les informations collectées sont strictement destinées à Pauline Schmitt pour répondre aux demandes des utilisateurs. Elles ne sont ni vendues ni transmises à des tiers.
+Conformément au Règlement Général sur la Protection des Données (RGPD) et à la loi Informatique et Libertés, vous disposez d’un droit d’accès, de rectification, d’opposition, de suppression et de portabilité des données vous concernant.
+Pour exercer ces droits, vous pouvez contacter : /email/.
+
+## éditrice
+
+Site conçu et réalisé par Pauline Schmitt EI, 60 rue François 1er, 75008 Paris, France - SIRET 98817014800015
+
+Site internet : [paulineschmitt.com](paulineschmitt.com)
+
+/email/
+
+Responsable publication : Pauline Schmitt
+
+## hébergement
+
+Site hébergé par [GitHub Inc](https://pages.github.com).
+
+8 Colin P. Kelly Jr. Street, San Francisco, CA 94107, États-Unis
+
+## sources des images
+
+- Page d'accueil : image de fond générée par intelligence artificielle via ChatGPT (DALL·E) – OpenAI
+- Icone accueil et favicon : image modifiée à partir de l'image de la page d'accueil
+
+
