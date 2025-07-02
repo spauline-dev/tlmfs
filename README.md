@@ -1,6 +1,6 @@
 # tlmfs
 
-## licence
+## license
 
 Le code source de ce site est publié sous la licence [GNU General Public License v3.0](LICENSE).
 
@@ -36,7 +36,7 @@ prefix all jekyll commands listed in this tutorial with `bundle exec` to make su
 
 ## build static site
 
-Build the site once and output a static site to a directory called _site:
+Build the site once and output a static site to a directory called `_site`:
 
 ```bash
 bundle exec jekyll build
@@ -50,7 +50,7 @@ bundle exec jekyll serve --livereload
 
 Website is at http://localhost:4000.
 
-If there’s a conflict or you’d like Jekyll to serve your development site at a different URL, use the --host and --port arguments.
+If there’s a conflict or you’d like Jekyll to serve your development site at a different URL, use the `--host` and `--port` arguments.
 
 The version of the site that `jekyll serve` builds in  `_site` is not suited for deployment. It doesn't take into account your site’s configuration file. See deployment section.
 
@@ -62,15 +62,15 @@ The version of the site that `jekyll serve` builds in  `_site` is not suited for
 
 ## styles
 
-- add styles in site/_sass 
-- include all sass files in site/assets/css/styles.sass
+- add styles in `site/_sass`
+- include all sass files in `site/assets/css/styles.sass`
 
 ## content
 
 ### how to add a text
 
-- add file to /site/pages/textes
-- update /site/_data/textes.yml
+- add file to `/site/pages/textes`
+- update `/site/_data/textes.yml`
 
 ## deployment
 

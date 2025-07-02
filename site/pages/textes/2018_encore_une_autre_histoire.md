@@ -139,7 +139,7 @@ Il soupire.
 Je suis dans un train pour Grenoble. Mes boots indestructibles commencent à vieillir, ça me rend triste. Je marche beaucoup, tout le temps, ça réchauffe et ça occupe. J’ai visité des endroits de Lyon que je ne connaissais pas du tout ; j’ai eu de bonnes et de mauvaises surprises. Je me suis fait agresser et voler le liquide que j’avais sur moi. Je n’avais pas grand-chose et ils ne m’ont pas fait trop mal. Je crois bien que j’ai failli me faire violer aussi, une fois, mais j’ai couru assez vite. Une autre fois j’ai trouvé une petite maison perdue entre deux immeubles moches, avec un chat dans le jardin qui est venu me réclamer des caresses. La propriétaire m’a proposé d’entrer mais j’ai refusé. Il y avait une affiche de moi sur un lampadaire juste en face.
 C’est pour ça que je pars. Je suis triste mais en même temps j’avais besoin de changement, je crois. Je savais que ça allait arriver.
 Le train traverse la campagne rhodanienne sous une lumière chaude de fin d’après-midi. Je regarde le paysage défiler, songeuse.
-Avez-vous vu cette jeune femme ?
+*Avez-vous vu cette jeune femme ?*
 Je croyais qu’il y en avait seulement dans les séries américaines, des affiches comme ça. Ça m’a fait bizarre d’en voir une ici.
 Ça, et puis le fait que ce soit ma tête dessus.
 Je suis sûre que c’est mon père qui les a faites. Il adore cette photo de moi. Avec un chemisier à fleurs, un petit collier en argent près du cou, à peine maquillée.

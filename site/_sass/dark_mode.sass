@@ -1,9 +1,11 @@
 // apply darkmode when checkbox checked
-#toggle-dark-mode:checked ~ main#main-container
+#toggle-dark-mode:checked ~ main#main-container,
+#toggle-dark-mode:checked ~ footer
+
     color: $beige
     background-color: $black
 
-    a
+    a, .link
         color: $beige
         &:visited, &:hover
             color: $beige

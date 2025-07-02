@@ -6,4 +6,5 @@ slug: accessibilite
 ---
 
 # déclaration d'accessibilité
+---
 

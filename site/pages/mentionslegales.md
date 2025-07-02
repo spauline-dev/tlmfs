@@ -6,12 +6,13 @@ slug: mentions-legales
 ---
 
 # mentions légales
+---
 
 ## textes
 
-Les textes présentés sur ce site sont purement fictionnels. Toute ressemblance avec la réalité serait purement fortuite.
+Les textes présentés sur ce site sont purement fictionnels. Toute ressemblance avec la réalité est purement fortuite.
 
-Les textes sont l'oeuvre unique et originale de leur autrice, et sont protégés par les droits d'auteur selon la loi française. Toute reproduction ou utilisation sans autorisation est interdite.
+Les textes sont l'œuvre unique et originale de leur autrice, et sont protégés par les droits d'auteur selon la loi française. Toute reproduction ou utilisation sans autorisation est interdite.
 
 ## code source
 
@@ -25,7 +26,7 @@ Cependant, le service GitHub Pages, qui héberge ce site, peut collecter des don
 
 ## données personnelles
 
-Ce site peut collecter des données personnelles via le formulaire de contact. Les informations collectées sont strictement destinées à Pauline Schmitt pour répondre aux demandes des utilisateurs. Elles ne sont ni vendues ni transmises à des tiers.
+Ce site peut collecter des données personnelles via le formulaire de contact. Les informations collectées sont strictement destinées à l'autrice des textes, pour répondre aux demandes des utilisateurs et utilisatrices. Elles ne sont ni vendues ni transmises à des tiers.
 Conformément au Règlement Général sur la Protection des Données (RGPD) et à la loi Informatique et Libertés, vous disposez d’un droit d’accès, de rectification, d’opposition, de suppression et de portabilité des données vous concernant.
 Pour exercer ces droits, vous pouvez contacter : /email/.
 
@@ -33,21 +34,17 @@ Pour exercer ces droits, vous pouvez contacter : /email/.
 
 Site conçu et réalisé par Pauline Schmitt EI, 60 rue François 1er, 75008 Paris, France - SIRET 98817014800015
 
-Site internet : [paulineschmitt.com](paulineschmitt.com)
+Site internet : [paulineschmitt.com](https://www.paulineschmitt.com)
 
 /email/
 
-Responsable publication : Pauline Schmitt
+L'éditrice n'est pas responsable des contenus du site.
 
 ## hébergement
 
-Site hébergé par [GitHub Inc](https://pages.github.com).
-
-8 Colin P. Kelly Jr. Street, San Francisco, CA 94107, États-Unis
+Site hébergé par [GitHub Inc](https://pages.github.com), 8 Colin P. Kelly Jr. Street, San Francisco, CA 94107, États-Unis
 
 ## sources des images
 
 - Page d'accueil : image de fond générée par intelligence artificielle via ChatGPT (DALL·E) – OpenAI
 - Icone accueil et favicon : image modifiée à partir de l'image de la page d'accueil
-
-
