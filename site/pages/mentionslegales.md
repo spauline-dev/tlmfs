@@ -26,7 +26,7 @@ Cependant, le service GitHub Pages, qui héberge ce site, peut collecter des don
 
 ## données personnelles
 
-Ce site peut collecter des données personnelles via le formulaire de contact. Les informations collectées sont strictement destinées à l'autrice des textes, pour répondre aux demandes des utilisateurs et utilisatrices. Elles ne sont ni vendues ni transmises à des tiers.
+Ce site peut collecter des données personnelles via le formulaire de contact. Les informations collectées sont strictement destinées à l'autrice des textes, pour répondre aux demandes des utilisateurs et utilisatrices. Elles ne sont ni vendues ni transmises à des tiers, et sont automatiquement supprimées après 30 jours.
 Conformément au Règlement Général sur la Protection des Données (RGPD) et à la loi Informatique et Libertés, vous disposez d’un droit d’accès, de rectification, d’opposition, de suppression et de portabilité des données vous concernant.
 Pour exercer ces droits, vous pouvez contacter : /email/.
 
