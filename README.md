@@ -70,6 +70,10 @@ The version of the site that `jekyll serve` builds in  `_site` is not suited for
 ### how to add a text
 
 - add file to `/site/pages/textes`
+    - manually add italics with `*text in italic*`
+    - manually add unbreakable spaces
+        - before `»`, `:`, `;`, `!`, `?` (find and replace  `/space//char/` with `&nbsp;/char/`)
+        - after `«`, `--`, `–`, `-` (find and replace  `/char//space/` with `/char/&nbsp;`)
 - update `/site/_data/textes.yml`
 
 ## deployment

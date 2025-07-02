@@ -18,6 +18,7 @@ slug: textes
                 {{ texte.preview }}
             </p>
         </div>
+        <div class="texte-year">{{ texte.year }}</div>
     </a>
 {% endfor %}
 </div>

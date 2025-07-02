@@ -7,19 +7,19 @@ slug: encore-une-autre-histoire-inachevee
 ---
 
 La procrastination. Elle avait encore frappé. Comme tous les dimanches, j’avais fait une liste des tâches à accomplir dans la semaine, amèrement constaté les dégâts, et décidé que c’était l’heure de s’y mettre. De remédier à cet état vaguement vaseux d’un dimanche gris mais pas pluvieux.
-Et comme tous les dimanches, j’avais déjà passé près de quatre heures devant mon ordinateur, me répétant que j’allais m’y mettre, dans cinq minutes. Mon historique Youtube me faisait honte. J’avais commencé par quelques vidéos qui traînaient dans ma playlist « À regarder plus tard » et qui s’étaient avérées fort intéressantes – entre autres, une sur la séparation droite/gauche en politique – puis de suggestion en suggestion je me suis retrouvée sur une recette de cookies sans beurre, et finalement, sur une morning routine.
-Je crois bien que c’est la morning routine qui m’a fichue dedans. J’ai regardé cette inconnue faire des prises de vue étranges sur son lever, dévoilant un visage déjà maquillé déformé par un bâillement peu naturel. Pendant qu’elle me racontait sa matinée, j’ai pensé aux millions de gens qui avaient regardé sa vidéo et je me suis demandé quel intérêt ces abrutis avaient bien pu y trouver. Et puis j’ai réalisé que j’étais en train moi-même d’apporter une vue à cette plate démonstration d’égocentrisme, et je me suis demandé combien de gens avaient réellement apprécié cette vidéo, et combien de gens l’avaient regardée pour les mêmes raisons que moi. Raisons qui pouvaient bien évidemment se résumer à une seule : la procrastination.
+Et comme tous les dimanches, j’avais déjà passé près de quatre heures devant mon ordinateur, me répétant que j’allais m’y mettre, dans cinq minutes. Mon historique Youtube me faisait honte. J’avais commencé par quelques vidéos qui traînaient dans ma playlist «&nbsp;À regarder plus tard&nbsp;» et qui s’étaient avérées fort intéressantes –&nbsp;entre autres, une sur la séparation droite/gauche en politique –&nbsp;puis de suggestion en suggestion je me suis retrouvée sur une recette de cookies sans beurre, et finalement, sur une morning routine.
+Je crois bien que c’est la morning routine qui m’a fichue dedans. J’ai regardé cette inconnue faire des prises de vue étranges sur son lever, dévoilant un visage déjà maquillé déformé par un bâillement peu naturel. Pendant qu’elle me racontait sa matinée, j’ai pensé aux millions de gens qui avaient regardé sa vidéo et je me suis demandé quel intérêt ces abrutis avaient bien pu y trouver. Et puis j’ai réalisé que j’étais en train moi-même d’apporter une vue à cette plate démonstration d’égocentrisme, et je me suis demandé combien de gens avaient réellement apprécié cette vidéo, et combien de gens l’avaient regardée pour les mêmes raisons que moi. Raisons qui pouvaient bien évidemment se résumer à une seule&nbsp;: la procrastination.
 La vidéo qui tourne à présent, sans que je ne la regarde vraiment, c’est un tutoriel pour se boucler les cheveux sans utiliser de chaleur. Je n’ai plus les cheveux longs depuis deux ans et ne prévois pas de me les faire repousser. Ce genre de vidéo ne fait que me conforter dans cette idée, constatant le temps passé pour obtenir des mouvements capillaires artificiels qui se ratatinent beaucoup trop vite.
-« Et là, je mets de la laque, pour fixer le tout, comme ça, ça me tient toute la journée. »
+«&nbsp;Et là, je mets de la laque, pour fixer le tout, comme ça, ça me tient toute la journée.&nbsp;»
 Je sens presque l’odeur de ladite laque quand je la vois en vaporiser sur sa chevelure, et je tousse.
-Je regarde l’heure : dix-neuf heures. J’ai une présentation pour un de nos plus gros clients demain matin, et rien n’est prêt. Bien entendu, le produit dont je dois parler n’a rien à voir avec de la laque à cheveux ou un fer à friser.
-*Une dernière*, me dis-je dans un élan d’hypocrisie lucide, en cliquant sur « 10 astuces pour garder le teint frais pendant les règles ».
+Je regarde l’heure&nbsp;: dix-neuf heures. J’ai une présentation pour un de nos plus gros clients demain matin, et rien n’est prêt. Bien entendu, le produit dont je dois parler n’a rien à voir avec de la laque à cheveux ou un fer à friser.
+*Une dernière*, me dis-je dans un élan d’hypocrisie lucide, en cliquant sur «&nbsp;10 astuces pour garder le teint frais pendant les règles&nbsp;».
 La sonnerie du minuteur retentit et me ramène à la réalité. J’avais complètement oublié mes légumes vapeur. Je laisse tourner la vidéo et me rends dans la cuisine, où la cocotte-minute siffle en émettant un petit filet de vapeur. J’éteins le feu, ouvre la fenêtre et place la cocotte sur le rebord, puis dépressurise. Avec le vent, la moitié du nuage de vapeur revient à l’intérieur. Je donne un coup de pied précipité pour fermer la porte de la cuisine et éviter que le détecteur de fumée qui se trouve dans le couloir ne se déclenche. La vapeur se dissipe, je retire le couvercle de la cocotte.
 Elle est vide.
 J’ai mis à cuire pendant trente minutes une cocotte vide.
 Je regarde sur le plan de travail et vois un poireau à moitié découpé, gisant à côté d’une planche en bois et d’un couteau en céramique. Ceux de chez Auchan, qui coupent très bien les légumes et les doigts.
 Je regarde à nouveau la cocotte vide.
-Je la referme soigneusement, la prends, et la pose dans l’évier. Puis je ferme la fenêtre. Je vais dans ma chambre, prends un sac à dos dans lequel je mets quelques affaires de toilettes, des vêtements – dont trois paires de chaussettes chaudes – une bouteille d’eau, mon portable, un carnet et un stylo. Je troque ma chemise contre un vieux pull, j’enfile ma veste imperméable, mes boots indestructibles.
+Je la referme soigneusement, la prends, et la pose dans l’évier. Puis je ferme la fenêtre. Je vais dans ma chambre, prends un sac à dos dans lequel je mets quelques affaires de toilettes, des vêtements –&nbsp;dont trois paires de chaussettes chaudes –&nbsp;une bouteille d’eau, mon portable, un carnet et un stylo. Je troque ma chemise contre un vieux pull, j’enfile ma veste imperméable, mes boots indestructibles.
 Je sors, claque la porte, descends les escaliers de mon immeuble.
 Lorsque la lourde porte de l’entrée se referme et m’abandonne dans le froid moite de Lyon, je décide d’aller me chercher à manger.
 Je pars, d’un pas modéré mais décidé.
@@ -27,13 +27,13 @@ J’ai laissé mes clefs sur la commode dans l’entrée.
 
 --
 
-« Personne ne sait où est passée Sarah ? Elle n’est pas venue ce matin, elle n’a prévenu personne.
--- Je lui ai envoyé un message, elle m’a dit qu’elle avait eu un dégât des eaux, et que c’était compliqué à gérer.
--- Elle aurait pu me prévenir quand même. Je me suis retrouvé comme un con, moi, pour la présentation.
--- C’est vrai que c’est pas cool. Elle a sans doute été dépassée et elle a oublié de t’envoyer un message.
--- Elle a répondu au tien quand même, moi elle m’a toujours rien envoyé.
--- Elle va peut-être le faire bientôt.
--- Mouais. »
+«&nbsp;Personne ne sait où est passée Sarah&nbsp;? Elle n’est pas venue ce matin, elle n’a prévenu personne.
+--&nbsp;Je lui ai envoyé un message, elle m’a dit qu’elle avait eu un dégât des eaux, et que c’était compliqué à gérer.
+--&nbsp;Elle aurait pu me prévenir quand même. Je me suis retrouvé comme un con, moi, pour la présentation.
+--&nbsp;C’est vrai que c’est pas cool. Elle a sans doute été dépassée et elle a oublié de t’envoyer un message.
+--&nbsp;Elle a répondu au tien quand même, moi elle m’a toujours rien envoyé.
+--&nbsp;Elle va peut-être le faire bientôt.
+--&nbsp;Mouais.&nbsp;»
 
 --
 
@@ -53,43 +53,43 @@ Je m’assois sur un banc. J’ai terriblement froid, mais ça ne dépasse pas l
 
 --
 
-« Je l’ai trouvée au bord de la route, en rentrant. Je croyais qu’elle était morte. Elle est en hypothermie, elle a les extrémités toutes bleues. Je pouvais pas la laisser là !
--- T’avais qu’à l’emmener au SAMU ! C’est pas un refuge ici.
--- Je l’emmène demain, si c’est nécessaire. »
+«&nbsp;Je l’ai trouvée au bord de la route, en rentrant. Je croyais qu’elle était morte. Elle est en hypothermie, elle a les extrémités toutes bleues. Je pouvais pas la laisser là&nbsp;!
+--&nbsp;T’avais qu’à l’emmener au SAMU&nbsp;! C’est pas un refuge ici.
+--&nbsp;Je l’emmène demain, si c’est nécessaire.&nbsp;»
 Une personne pousse un soupir agacé. Je me retourne. Je suis allongée sur une sorte de tapis tout doux, qui crisse sous le poids de mon dos. Trois couvertures enveloppent mon corps quasi nu. Le peu de vêtements que je porte, mis à part ma culotte, ne m’appartiennent pas. Je gémis doucement, ne me sentant pas capable d’émettre un autre son pour le moment.
-« Elle est réveillée. Je te laisse gérer, je dois aller en cours. Je veux pas la voir ici ce soir, c’est compris ? »
+«&nbsp;Elle est réveillée. Je te laisse gérer, je dois aller en cours. Je veux pas la voir ici ce soir, c’est compris&nbsp;?&nbsp;»
 J’aperçois un jeune homme acquiescer en silence, puis venir vers moi tandis que celui que je suppose être son colocataire s’en va sans m’accorder un regard.
-« Salut, je suis Bastien. Comment ça va ? »
+«&nbsp;Salut, je suis Bastien. Comment ça va&nbsp;?&nbsp;»
 Je cligne des yeux plusieurs fois, puis frotte mes paupières.
-« Je me sens bien, merci. Je m’appelle… »
+«&nbsp;Je me sens bien, merci. Je m’appelle…&nbsp;»
 Ma voix s’éteint dans ma gorge et je réfléchis. Rapidement.
-« Anna. Je m’appelle Anna. »
+«&nbsp;Anna. Je m’appelle Anna.&nbsp;»
 Bastien acquiesce.
-« Qu’est-ce que je fais là ? je demande.
--- Je vous ai trouvée hier soir, répond-il, sur un banc près du parc Miribel. Vous n’aviez pas l’air bien, alors je vous ai ramenée ici. »
+«&nbsp;Qu’est-ce que je fais là&nbsp;? je demande.
+--&nbsp;Je vous ai trouvée hier soir, répond-il, sur un banc près du parc Miribel. Vous n’aviez pas l’air bien, alors je vous ai ramenée ici.&nbsp;»
 Il marque une pause. Je ne dis rien.
-« Je vous apporte un café ? me demande-t-il.
--- Je veux bien, merci. J’ai rien mangé depuis hier matin, aussi.
--- Venez prendre un petit déjeuner alors, propose-t-il et je hoche la tête.
--- Tutoie-moi. Je pense que j’ai ton âge.
--- Vingt-quatre ? lance-t-il.
--- Vingt-trois. » je réponds.
+«&nbsp;Je vous apporte un café&nbsp;? me demande-t-il.
+--&nbsp;Je veux bien, merci. J’ai rien mangé depuis hier matin, aussi.
+--&nbsp;Venez prendre un petit déjeuner alors, propose-t-il et je hoche la tête.
+--&nbsp;Tutoie-moi. Je pense que j’ai ton âge.
+--&nbsp;Vingt-quatre&nbsp;? lance-t-il.
+--&nbsp;Vingt-trois.&nbsp;» je réponds.
 Il va faire le café dans la cuisine, qui donne directement sur la pièce où j’ai dormi, que je suppose être le salon.
 
 --
 
-« T’es encore en train de piquer dans les placards ?
--- C’est pour Anna.
--- Ne me dis pas que tu lui apportes encore à manger…
--- C’est temporaire. Elle attend de l’argent que sa mère doit lui envoyer pour l’aider, en attendant elle a vraiment plus rien.
--- Mais tu la connais même pas, cette fille ! Tu espères quoi, en la nourrissant comme ça ? La mettre dans ton lit ?
--- Même si c’était le cas, je vois pas en quoi ça te regarde.
--- Ça me regarde parce que tu piques dans la réserve de la coloc ! T’as intérêt à racheter tout ça !
--- Ouais, ouais, c’est bon. T’as vraiment aucun cœur.
--- Et toi tu penses avec ta bite.
--- Va te faire foutre.
--- Je vais en cours. Salut. »
-Bastien pousse un soupir après le claquement de porte. Qu’est-ce qui énerve autant son coloc ? Il a bien le droit d’aider cette fille ! Et puis, il a un peu l’impression de la connaître, maintenant. Il lui apporte de la nourriture régulièrement.
+«&nbsp;T’es encore en train de piquer dans les placards&nbsp;?
+--&nbsp;C’est pour Anna.
+--&nbsp;Ne me dis pas que tu lui apportes encore à manger…
+--&nbsp;C’est temporaire. Elle attend de l’argent que sa mère doit lui envoyer pour l’aider, en attendant elle a vraiment plus rien.
+--&nbsp;Mais tu la connais même pas, cette fille&nbsp;! Tu espères quoi, en la nourrissant comme ça&nbsp;? La mettre dans ton lit&nbsp;?
+--&nbsp;Même si c’était le cas, je vois pas en quoi ça te regarde.
+--&nbsp;Ça me regarde parce que tu piques dans la réserve de la coloc&nbsp;! T’as intérêt à racheter tout ça&nbsp;!
+--&nbsp;Ouais, ouais, c’est bon. T’as vraiment aucun cœur.
+--&nbsp;Et toi tu penses avec ta bite.
+--&nbsp;Va te faire foutre.
+--&nbsp;Je vais en cours. Salut.&nbsp;»
+Bastien pousse un soupir après le claquement de porte. Qu’est-ce qui énerve autant son coloc&nbsp;? Il a bien le droit d’aider cette fille&nbsp;! Et puis, il a un peu l’impression de la connaître, maintenant. Il lui apporte de la nourriture régulièrement.
 Elle a arrêté de dormir chez lui après trois nuits. Il ne sait pas où elle loge, ni même si elle loge quelque part, mais elle n’a pas voulu le lui dire. Il n’a pas insisté.
 Quelque chose l’intrigue chez cette femme. Elle lui semble à la fois sans gêne et désolée d’exister. Quand il lui a proposé du café, le premier jour, elle a immédiatement réclamé de la nourriture, sans y mettre les formes. Mais elle s’est excusée plusieurs fois de dormir chez lui, et elle a fini par partir. Le coloc n’a pas aidé, sans doute, elle devait dormir cachée pour ne pas qu’il sache qu’elle était là.
 De façon générale, il y avait dans son attitude quelque chose de contradictoire. Elle semblait sûre d’elle, mais totalement perdue. Fragile, mais détachée de ses émotions. Vulnérable, mais intouchable.
@@ -112,44 +112,44 @@ Sinon je meurs.
 
 --
 
-« Sarah ? Elle ne travaille plus ici depuis trois mois.
--- Ah bon ? Elle a donné sa démission ?
--- En quelque sorte.
--- C’est définitif ?
--- On ne sait pas trop.
--- D’accord. J’espère qu’elle va bien.
+«&nbsp;Sarah&nbsp;? Elle ne travaille plus ici depuis trois mois.
+--&nbsp;Ah bon&nbsp;? Elle a donné sa démission&nbsp;?
+--&nbsp;En quelque sorte.
+--&nbsp;C’est définitif&nbsp;?
+--&nbsp;On ne sait pas trop.
+--&nbsp;D’accord. J’espère qu’elle va bien.
 *Moi aussi, j’espère qu’elle va bien.*
--- Vous pouvez aller voir Fabrice, c’est lui qui a pris son poste. Même bureau.
--- Merci. »
+--&nbsp;Vous pouvez aller voir Fabrice, c’est lui qui a pris son poste. Même bureau.
+--&nbsp;Merci.&nbsp;»
 Raphaël lance un regard au dehors, songeant aux chaussures bleues vernies qui avaient arrêté du jour au lendemain de fouler la moquette terne de l’open space.
-« Hé, psst, pourquoi tu lui as pas dit qu’elle avait disparu ? » lui chuchote Seb depuis le bureau d’en face.
+«&nbsp;Hé, psst, pourquoi tu lui as pas dit qu’elle avait disparu&nbsp;?&nbsp;» lui chuchote Seb depuis le bureau d’en face.
 Raphaël hausse les épaules, secoue la tête.
-« J’avais pas envie d’expliquer.
--- C’est quand même fou cette histoire. On n’abandonne pas son poste comme ça ! Personne n’est au courant, même pas sa famille ! »
-Il ne répond pas. Joue avec le post-it jaune collé sur l’écran de son PC. « Terminer le rapport pour le 27 » souligné trois fois.
-« T’en penses quoi, toi ? Tu crois qu’elle est morte ?
--- J’en sais rien. On finira bien par la retrouver. »
+«&nbsp;J’avais pas envie d’expliquer.
+--&nbsp;C’est quand même fou cette histoire. On n’abandonne pas son poste comme ça&nbsp;! Personne n’est au courant, même pas sa famille&nbsp;!&nbsp;»
+Il ne répond pas. Joue avec le post-it jaune collé sur l’écran de son PC. «&nbsp;Terminer le rapport pour le 27&nbsp;» souligné trois fois.
+«&nbsp;T’en penses quoi, toi&nbsp;? Tu crois qu’elle est morte&nbsp;?
+--&nbsp;J’en sais rien. On finira bien par la retrouver.&nbsp;»
 *Au fond, je comprends.*
-« Ouais, enfin ça fait quand même trois mois. J’y crois plus moi. »
+«&nbsp;Ouais, enfin ça fait quand même trois mois. J’y crois plus moi.&nbsp;»
 Il soupire.
 *Moi aussi j’aurais envie de disparaître.*
 
 --
 
-Je suis dans un train pour Grenoble. Mes boots indestructibles commencent à vieillir, ça me rend triste. Je marche beaucoup, tout le temps, ça réchauffe et ça occupe. J’ai visité des endroits de Lyon que je ne connaissais pas du tout ; j’ai eu de bonnes et de mauvaises surprises. Je me suis fait agresser et voler le liquide que j’avais sur moi. Je n’avais pas grand-chose et ils ne m’ont pas fait trop mal. Je crois bien que j’ai failli me faire violer aussi, une fois, mais j’ai couru assez vite. Une autre fois j’ai trouvé une petite maison perdue entre deux immeubles moches, avec un chat dans le jardin qui est venu me réclamer des caresses. La propriétaire m’a proposé d’entrer mais j’ai refusé. Il y avait une affiche de moi sur un lampadaire juste en face.
+Je suis dans un train pour Grenoble. Mes boots indestructibles commencent à vieillir, ça me rend triste. Je marche beaucoup, tout le temps, ça réchauffe et ça occupe. J’ai visité des endroits de Lyon que je ne connaissais pas du tout&nbsp;; j’ai eu de bonnes et de mauvaises surprises. Je me suis fait agresser et voler le liquide que j’avais sur moi. Je n’avais pas grand-chose et ils ne m’ont pas fait trop mal. Je crois bien que j’ai failli me faire violer aussi, une fois, mais j’ai couru assez vite. Une autre fois j’ai trouvé une petite maison perdue entre deux immeubles moches, avec un chat dans le jardin qui est venu me réclamer des caresses. La propriétaire m’a proposé d’entrer mais j’ai refusé. Il y avait une affiche de moi sur un lampadaire juste en face.
 C’est pour ça que je pars. Je suis triste mais en même temps j’avais besoin de changement, je crois. Je savais que ça allait arriver.
 Le train traverse la campagne rhodanienne sous une lumière chaude de fin d’après-midi. Je regarde le paysage défiler, songeuse.
-*Avez-vous vu cette jeune femme ?*
+*Avez-vous vu cette jeune femme&nbsp;?*
 Je croyais qu’il y en avait seulement dans les séries américaines, des affiches comme ça. Ça m’a fait bizarre d’en voir une ici.
 Ça, et puis le fait que ce soit ma tête dessus.
 Je suis sûre que c’est mon père qui les a faites. Il adore cette photo de moi. Avec un chemisier à fleurs, un petit collier en argent près du cou, à peine maquillée.
-Je décolle mon front de la fenêtre du train et fouille dans ma poche, à la recherche d’un mouchoir. Je suis en train de pleurer. L’homme assis en face de moi me jette un rapide coup d’œil, puis feint de m’ignorer et se passionne pour la lecture de son journal. Je me mouche bruyamment, m’essuie les yeux – pas dans cet ordre – puis repose mon front contre la vitre froide. Un nuage de buée se forme et je ne vois presque plus le paysage.
+Je décolle mon front de la fenêtre du train et fouille dans ma poche, à la recherche d’un mouchoir. Je suis en train de pleurer. L’homme assis en face de moi me jette un rapide coup d’œil, puis feint de m’ignorer et se passionne pour la lecture de son journal. Je me mouche bruyamment, m’essuie les yeux –&nbsp;pas dans cet ordre –&nbsp;puis repose mon front contre la vitre froide. Un nuage de buée se forme et je ne vois presque plus le paysage.
 
 --
 
 Le vent souffle fort ce soir. Je remonte ma fermeture éclair et resserre mon écharpe. À ma droite, la montagne. À ma gauche, la forêt. Dans la montagne. Je me sens bien. Pour la première fois depuis longtemps j’ai l’impression d’être à ma place.
-J’arrive au bout de la forêt ; des promeneurs sont rassemblés autour du plan indiquant les reliefs visibles depuis le point de vue. Le soleil est couchant, la lumière est rose, orange.
-« Il faut qu’on redescende, il va bientôt faire nuit. »
+J’arrive au bout de la forêt&nbsp;; des promeneurs sont rassemblés autour du plan indiquant les reliefs visibles depuis le point de vue. Le soleil est couchant, la lumière est rose, orange.
+«&nbsp;Il faut qu’on redescende, il va bientôt faire nuit.&nbsp;»
 J’attends qu’ils partent, je passe sous la barrière en bois, je m’assois au bord du précipice.
 Le vent souffle toujours.
 Un aigle passe, au loin, devant la montagne. J’inspire. L’air est frais et bon.

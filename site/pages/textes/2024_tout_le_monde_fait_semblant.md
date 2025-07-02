@@ -26,12 +26,12 @@ Et c’est pas grave. Le monde tourne. L’eau tombe des nuages, le lapin creuse
 On s’invente des choses pour y donner un sens, mais ça n’en a pas, du sens, rien n’en a et ce n’est pas grave, au fond.
 Il y a juste des gens qui l’acceptent mieux que d’autres.
 
-Est-ce que tout le monde sait que tout le monde fait semblant ? C’est juste une sorte d’accord tacite pour pas devenir fou ? Moi je pense qu’il y a des gens qui ne le sauront jamais. Il doit y avoir des gens qui ne se posent même pas la question. Peut-être qu’il y a des gens qui savent réellement ce qu’ils font, et des gens qui font réellement confiance à d’autres gens pour savoir ce qu’ils font ?
+Est-ce que tout le monde sait que tout le monde fait semblant&nbsp;? C’est juste une sorte d’accord tacite pour pas devenir fou&nbsp;? Moi je pense qu’il y a des gens qui ne le sauront jamais. Il doit y avoir des gens qui ne se posent même pas la question. Peut-être qu’il y a des gens qui savent réellement ce qu’ils font, et des gens qui font réellement confiance à d’autres gens pour savoir ce qu’ils font&nbsp;?
 Moi je fais vraiment confiance à personne. C’est juste que des fois, je lâche prise et j’accepte mon sort. Sinon, bon on avance pas et je prendrais jamais le train, je monterais pas dans les ascenseurs et j’irais pas manger au restaurant. 
 
 Bon voilà, peut-être j’écrirai un livre un jour, peut-être pas. Peut-être que ça serait dommage de ne rien faire de cette envie d’écrire. Peut-être que je relirai ce texte avec mon roman dans les mains et je serai trop fière. Et après je devrai aller en dédicace faire semblant de savoir qui je suis et pourquoi j’écris.
 Je sais pas pourquoi j’écris.
 Pour partager. Pour exister. Pour évacuer. Pour être aimée.
-Comme tout le monde quoi, non ? Pourquoi les gens font-ils ce qu’ils font, ont-ils les passions qu’ils ont ?
+Comme tout le monde quoi, non&nbsp;? Pourquoi les gens font-ils ce qu’ils font, ont-ils les passions qu’ils ont&nbsp;?
 
 Des fois je me dis que je me suis mise à écrire juste parce que j’aime bien la sensation de taper rapidement au clavier sans m’arrêter, et que c’est aussi pour ça que je suis devenue développeuse. Mais c’est un peu décevant développeuse, en vrai, parce qu’il faut beaucoup réfléchir et pas tant taper que ça finalement car il y a l’autocomplétion et les copier-coller.
