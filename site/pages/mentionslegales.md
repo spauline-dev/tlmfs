@@ -28,15 +28,13 @@ Cependant, le service GitHub Pages, qui héberge ce site, peut collecter des don
 
 Ce site peut collecter des données personnelles via le formulaire de contact. Les informations collectées sont strictement destinées à l'autrice des textes, pour répondre aux demandes des utilisateurs et utilisatrices. Elles ne sont ni vendues ni transmises à des tiers, et sont automatiquement supprimées après 30 jours.
 Conformément au Règlement Général sur la Protection des Données (RGPD) et à la loi Informatique et Libertés, vous disposez d’un droit d’accès, de rectification, d’opposition, de suppression et de portabilité des données vous concernant.
-Pour exercer ces droits, vous pouvez contacter : /email/.
+Pour exercer ces droits, vous pouvez utiliser le formulaire de contact de ce site.
 
 ## éditrice
 
 Site conçu et réalisé par Pauline Schmitt EI, 60 rue François 1er, 75008 Paris, France - SIRET 98817014800015
 
-Site internet : [paulineschmitt.com](https://www.paulineschmitt.com)
-
-/email/
+Site internet&nbsp;: [paulineschmitt.com](https://www.paulineschmitt.com)
 
 L'éditrice n'est pas responsable des contenus du site.
 
@@ -46,5 +44,5 @@ Site hébergé par [GitHub Inc](https://pages.github.com), 8 Colin P. Kelly Jr. 
 
 ## sources des images
 
-- Page d'accueil : image de fond générée par intelligence artificielle via ChatGPT (DALL·E) – OpenAI
-- Icone accueil et favicon : image modifiée à partir de l'image de la page d'accueil
+- Page d'accueil&nbsp;: image de fond générée par intelligence artificielle via ChatGPT (DALL·E) – OpenAI
+- Icone accueil et favicon&nbsp;: image modifiée à partir de l'image de la page d'accueil

@@ -8,9 +8,11 @@
         margin-bottom: .5em
 
     .contact-form
-        width: fit-content
-        min-width: $width-narrow-mode
         margin: 0 auto
         padding: 1.5em 0 0 0
         border: $dashed
         border-radius: $border-radius
+
+        @media screen and (min-width: $min-width-narrow-mode)
+            min-width: $width-narrow-mode
+            width: fit-content
