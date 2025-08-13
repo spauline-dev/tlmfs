@@ -62,19 +62,19 @@ The version of the site that `jekyll serve` builds in  `_site` is not suited for
 
 ## styles
 
-- add styles in `site/_sass`
-- include all sass files in `site/assets/css/styles.sass`
+- add styles in `_sass`
+- include all sass files in `assets/css/styles.sass`
 
 ## content
 
 ### how to add a text
 
-- add file to `/site/pages/textes`
+- add file to `pages/textes`
     - manually add italics with `*text in italic*`
     - manually add unbreakable spaces
         - before `»`, `:`, `;`, `!`, `?` (find and replace  `/space//char/` with `&nbsp;/char/`)
         - after `«`, `--`, `–`, `-` (find and replace  `/char//space/` with `/char/&nbsp;`)
-- update `/site/_data/textes.yml`
+- update `_data/textes.yml`
 
 ## deployment
 

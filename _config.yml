@@ -1,5 +1,5 @@
 # Where things are
-source              : ./site
+source              : .
 destination         : ./_site
 layouts_dir         : _layouts
 data_dir            : _data
