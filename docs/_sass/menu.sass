@@ -89,11 +89,11 @@
     margin: 0 auto -4em auto
     justify-content: center
 
-    @media (hover: hover)
+    @media (hover: hover) and (pointer: fine)
         display: none
 
 .background-image
-    @media (hover: none)
+    @media (hover: none), (pointer: coarse)
         max-height: calc(100% - 4em) // linked to menu-text height
         transform: translateY(calc(-50% + 2em)) // linked to menu-text height / 2
 
