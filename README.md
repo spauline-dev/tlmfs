@@ -45,6 +45,7 @@ bundle exec jekyll build
 During development:
 
 ```bash
+cd ./docs
 bundle exec jekyll serve --livereload
 ```
 
@@ -52,13 +53,7 @@ Website is at http://localhost:4000.
 
 If there’s a conflict or you’d like Jekyll to serve your development site at a different URL, use the `--host` and `--port` arguments.
 
-The version of the site that `jekyll serve` builds in  `_site` is not suited for deployment. It doesn't take into account your site’s configuration file. See deployment section.
-
-## jekyll syntax documentation
-
-- liquid tags: https://jekyllrb.com/docs/liquid/tags/
-- liquid filters: https://jekyllrb.com/docs/liquid/filters/
-- variables: https://jekyllrb.com/docs/variables/
+The version of the site that `jekyll serve` builds in  `_site` is not suited for deployment. It doesn't take into account your site’s configuration file.
 
 ## styles
 
@@ -78,5 +73,4 @@ The version of the site that `jekyll serve` builds in  `_site` is not suited for
 
 ## deployment
 
-- site configuration file: https://jekyllrb.com/docs/configuration/
-- deployment tutorial: https://jekyllrb.com/docs/step-by-step/10-deployment/
+To deploy updates or add new content, just push or merge changes on the branch `main`. Deployment is automatic through github pages.

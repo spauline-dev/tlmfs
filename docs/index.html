@@ -7,7 +7,7 @@ title: accueil
     <nav class="menu-text menu-home" aria-hidden="true">
         {% for item in site.data.navigation %}
             {% if item.img %}
-                <a class="no-underline" href="{{ item.link }}">{{ item.name }}</a>
+                <a class="button no-underline" href="{{ item.link }}">{{ item.name }}</a>
             {% endif %}
         {% endfor %}
     </nav>

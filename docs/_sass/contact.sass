@@ -5,14 +5,45 @@
 
     .form-title
         text-align: center
-        margin-bottom: .5em
 
     .contact-form
         margin: 0 auto
-        padding: 1.5em 0 0 0
+        padding: 1.5em
         border: $dashed
         border-radius: $border-radius
+        text-align: center
+        max-width: $width-narrow-mode
 
-        @media screen and (min-width: $min-width-narrow-mode)
-            min-width: $width-narrow-mode
-            width: fit-content
+        form
+            #email-help-text
+                text-align: left
+                margin-top: .5em
+                font-size: $font-small
+                color: $grey
+
+            .form-field
+                margin-bottom: 1em
+
+                label
+                    display: flex
+                    flex-direction: column
+                    justify-content: center
+                    align-items: flex-start
+
+                input, textarea
+                    width: -webkit-fill-available
+                    width: -moz-available
+                    max-width: 300px
+                    border-radius: $border-radius
+                    border: $dashed
+                    font-family: $rubik
+                    font-size: $font-medium
+                    padding: .5em
+
+                textarea
+                    height: 150px
+                    max-width: 500px
+
+            button
+                text-align: center
+                margin-top: 1em

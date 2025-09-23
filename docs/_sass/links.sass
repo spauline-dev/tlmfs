@@ -17,11 +17,11 @@ a#skip-to-content
         background-color: $white
         padding: 0.5em
         font-weight: bold
-        font-size: 14px
+        font-size: $font-medium
         border: 3px solid $black
 
 a, .link
-    text-decoration: underline dashed
+    text-decoration: underline dashed 1.5px
     text-underline-offset: $underline-offset
 
     &:hover
@@ -39,3 +39,20 @@ a, .link
     color: $black
     &:visited, &:hover
         color: $black
+
+button, .button
+    padding: 5px 10px
+    border: $dashed
+    border-radius: $border-radius
+
+    &:hover
+        border-style: solid
+
+button
+    background-color: transparent
+    color: $black
+    font-family: $rubik
+    font-size: $font-medium
+
+    &:hover
+        cursor: pointer
