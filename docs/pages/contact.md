@@ -10,7 +10,7 @@ slug: contact
 
 
 <div class="insta-link">
-    <a href="https://www.instagram.com/toutlemondefaitsemblant/">me contacter sur instagram</a>
+    me contacter sur instagram <a href="https://www.instagram.com/toutlemondefaitsemblant/">@toutlemondefaitsemblant</a>
 </div>
 
 <div class="form-title">m'envoyer un message</div>
@@ -23,7 +23,7 @@ slug: contact
                 <input type="email" name="email" required aria-describedby="email-help-text">
             </label>
             <div id="email-help-text">
-                Votre email ne sera en aucun cas transmis à des tiers ni utilisé pour vous envoyer autre chose qu'une réponse à votre message. Plus d'informations dans les mentions légales.
+                Votre email ne sera en aucun cas transmis à des tiers, et ne sera conservé au delà de 30 jours que si vous vous inscrivez à la newsletter en cochant la case ci-dessous. Plus d'informations dans les mentions légales.
             </div>
         </div>
         <div class="form-field">
@@ -31,6 +31,15 @@ slug: contact
                 message
                 <textarea name="message" required></textarea>
             </label>
+        </div>
+        <div class="form-field">
+            <label class="checkbox">
+                je souhaite m'inscrire à la newsletter
+                <input type="checkbox" name="newsletter" aria-describedby="newsletter-help-text">
+            </label>
+            <div id="newsletter-help-text">
+                Pour être informé par email de la sortie des nouveaux textes, et de mon actualité d'autrice. J'envoie très peu d'emails (1 email par mois grand maximum, très probablement moins car je procrastine beaucoup).
+            </div>
         </div>
         <button type="submit">envoyer</button>
     </form>

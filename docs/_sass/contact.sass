@@ -15,7 +15,7 @@
         max-width: $width-narrow-mode
 
         form
-            #email-help-text
+            #email-help-text, #newsletter-help-text
                 text-align: left
                 margin-top: .5em
                 font-size: $font-small
@@ -29,8 +29,14 @@
                     flex-direction: column
                     justify-content: center
                     align-items: flex-start
+                    text-align: left
 
-                input, textarea
+                    &.checkbox
+                        flex-direction: row-reverse
+                        justify-content: flex-end
+                        gap: .5em
+
+                input:not([type='checkbox']), textarea
                     width: -webkit-fill-available
                     width: -moz-available
                     max-width: 300px
@@ -39,6 +45,7 @@
                     font-family: $rubik
                     font-size: $font-medium
                     padding: .5em
+                    background-color: $light-beige
 
                 textarea
                     height: 150px

@@ -26,9 +26,9 @@ Cependant, le service GitHub Pages, qui héberge ce site, peut collecter des don
 
 ## données personnelles
 
-Ce site peut collecter des données personnelles via le formulaire de contact. Les informations collectées sont strictement destinées à l'autrice des textes, pour répondre aux demandes des utilisateurs et utilisatrices. Elles ne sont ni vendues ni transmises à des tiers, et sont automatiquement supprimées après 30 jours.
+Ce site peut collecter des données personnelles via le formulaire de contact. Les informations collectées sont strictement destinées à l'autrice des textes, pour répondre aux demandes des utilisateurs et utilisatrices. Elles ne sont ni vendues ni transmises à des tiers. Les données des utilisateurs n'ayant pas souhaités être inscrits à la newsletter sont automatiquement supprimées après 30 jours.
 Conformément au Règlement Général sur la Protection des Données (RGPD) et à la loi Informatique et Libertés, vous disposez d’un droit d’accès, de rectification, d’opposition, de suppression et de portabilité des données vous concernant.
-Pour exercer ces droits, vous pouvez utiliser le formulaire de contact de ce site.
+Pour exercer ces droits, vous pouvez utiliser le formulaire de contact de ce site ou contacter l'éditrice du site.
 
 ## éditrice
 
@@ -44,5 +44,5 @@ Site hébergé par [GitHub Inc](https://pages.github.com), 8 Colin P. Kelly Jr. 
 
 ## sources des images
 
-- Page d'accueil&nbsp;: image de fond générée par intelligence artificielle via ChatGPT (DALL·E) – OpenAI
+- Page d'accueil&nbsp;: image de fond générée par intelligence artificielle via ChatGPT (DALL·E) – OpenAI (dès que possible un artiste humain sera rémunéré pour la refaire)
 - Icone accueil et favicon&nbsp;: image modifiée à partir de l'image de la page d'accueil

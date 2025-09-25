@@ -5,8 +5,13 @@ layout: default
 
 <h1>{{ page.title }}</h1>
 <div class="texte-infos">
-    <div class="word-count">{{ page.content | number_of_words }} mots - {{ page.content | number_of_words | divided_by: 350 }} à {{ page.content | number_of_words | divided_by: 250 }} minutes de lecture</div>
+    <div class="word-count">{{ page.content | number_of_words }} mots - {{ page.content | number_of_words | divided_by: 350 | at_least: 1 }} à {{ page.content | number_of_words | divided_by: 250 | at_least: 2 }} minutes de lecture</div>
     <div class="texte-year">{{ page.year }}</div>
+</div>
+
+<div class="disclaimer">
+    Mes textes sont purement fictionnels, et adaptés à un public adulte et jeune adulte. Ils ne sont pas adaptés à un public enfant (moins de 14 ans).
+    Ils sont protégés par les droits d'auteur selon la loi française. Toute reproduction ou utilisation sans autorisation est interdite.
 </div>
 
 <hr />

@@ -18,4 +18,6 @@ Je suis également disponible pour des collaborations en tant que scénariste, r
 
 Vous pouvez suivre [mon compte instagram](https://www.instagram.com/toutlemondefaitsemblant/) où j'informe de la sortie des nouveaux textes.
 
+Vous pouvez vous abonner à ma newsletter en utilisant [le formulaire de contact](/pages/contact.html).
+
 Bonne lecture !
