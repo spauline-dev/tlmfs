@@ -3,3 +3,8 @@
 source "https://rubygems.org"
 
 gem "github-pages", "~> 232", group: :jekyll_plugins
+gem "jekyll-sitemap"
+
+# if you have other plugins which generate content
+# be sure to require jekyll-sitemap either after those other gems if you want the sitemap to include the generated content
+# or before those other gems if you don't want the sitemap to include the generated content from the gems

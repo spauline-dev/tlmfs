@@ -9,3 +9,7 @@ sass:
 
 kramdown:
   hard_wrap: true
+
+url: "https://toutlemondefaitsemblant.fr"
+plugins:
+  - jekyll-sitemap
