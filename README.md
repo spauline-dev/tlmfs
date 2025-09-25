@@ -64,7 +64,7 @@ The version of the site that `jekyll serve` builds in  `_site` is not suited for
 
 ### how to add a text
 
-- add file to `pages/textes`
+- add file to `/textes`
     - manually add italics with `*text in italic*`
     - manually add unbreakable spaces
         - before `»`, `:`, `;`, `!`, `?` (find and replace  `/space//char/` with `&nbsp;/char/`)

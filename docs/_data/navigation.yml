@@ -2,14 +2,14 @@
   link: /
   id: menu-accueil
 - name: textes
-  link: /pages/textes.html
+  link: /textes
   id: menu-textes
   img: fridge
 - name: à propos
-  link: /pages/apropos.html
+  link: /apropos
   id: menu-apropos
   img: water
 - name: contact
-  link: /pages/contact.html
+  link: /contact
   id: menu-contact
   img: drawer
