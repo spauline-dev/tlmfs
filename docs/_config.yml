@@ -10,6 +10,7 @@ sass:
 collections:
   textes:
     output: true
+    sort_by: year
     permalink: /:collection/:slug
 
 kramdown:
@@ -18,6 +19,14 @@ kramdown:
 title: "tout le monde fait semblant"
 description: "fictions courtes sur le quotidien et le vide de l'existence. introspectif et désabusé. je crois. c'est pas grave, tout le monde fait semblant."
 url: "https://toutlemondefaitsemblant.fr"
+author: tlmfs
 
 plugins:
+  - jekyll-feed
   - jekyll-sitemap
+
+# optional feed config
+feed:
+  collections:
+    - textes
+  excerpt_only: true  # true to only display preview

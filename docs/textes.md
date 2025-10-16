@@ -4,7 +4,10 @@ class: textes
 title: textes
 ---
 
-# textes
+<div class="textes-title">
+    <h1 id="textes">textes</h1>
+    <a class="rss-link" href="/feed/textes.xml" title="flux RSS">{% include rss.svg %}</a>
+</div>
 
 <div class="textes-list">
 {% for texte in site.textes reversed %}

@@ -11,7 +11,7 @@ title: mentions légales
 
 Les textes présentés sur ce site sont purement fictionnels. Toute ressemblance avec la réalité est purement fortuite.
 
-Les textes sont l'œuvre unique et originale de leur autrice, et sont protégés par les droits d'auteur selon la loi française. Toute reproduction ou utilisation sans autorisation est interdite.
+Les textes sont l'œuvre unique et originale de leur autrice, Pauline Schmitt, et sont protégés par les droits d'auteur selon la loi française. Toute reproduction ou utilisation sans autorisation est interdite.
 
 ## code source
 
@@ -34,8 +34,6 @@ Pour exercer ces droits, vous pouvez utiliser le formulaire de contact de ce sit
 Site conçu et réalisé par Pauline Schmitt EI, 60 rue François 1er, 75008 Paris, France - SIRET 98817014800015
 
 Site internet&nbsp;: [paulineschmitt.com](https://www.paulineschmitt.com)
-
-L'éditrice n'est pas responsable des contenus du site.
 
 ## hébergement
 
