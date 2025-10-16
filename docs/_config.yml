@@ -16,4 +16,10 @@ description: "fictions courtes sur le quotidien et le vide de l'existence. intro
 url: "https://toutlemondefaitsemblant.fr"
 
 plugins:
+  - jekyll-feed
   - jekyll-sitemap
+
+# optional feed config
+feed:
+  posts_limit: 10
+  excerpt_only: false  # true to only display preview
