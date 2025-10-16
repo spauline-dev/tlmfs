@@ -4,6 +4,7 @@ class: texte
 title: "la lettre"
 year: 2020
 slug: la-lettre
+description: "Elle regarde nerveusement autour d’elle, avec l’impression que le monde entier sait ce qu’elle va faire. 'Ne me jugez pas. Vous feriez pareil à ma place', pense-t-elle."
 ---
 
 Les pavés défilent rapidement sous ses pieds. Le claquement de ses talons résonne dans la rue presque vide. C’est une petite allée perpendiculaire au boulevard principal, dans laquelle se trouve l’immeuble qui abrite les locaux de son entreprise. L’ampleur de ses pas est limitée par sa jupe droite, alors pour marcher vite elle doit presque trottiner. Elle regarde nerveusement autour d’elle, avec l’impression que le monde entier sait ce qu’elle va faire.

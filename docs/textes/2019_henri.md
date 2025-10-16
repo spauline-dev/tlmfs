@@ -4,6 +4,8 @@ class: texte
 title: "Henri"
 year: 2019
 slug: henri
+description: "Il était 4h36, ce lundi 1er janvier 2024, lorsque le chat sortit de la boîte métallique après que Nelyn ait pressé la touche ‘Entrée’ de son clavier. Et le chat était intact."
+
 ---
 Il était 4h36, ce lundi 1er janvier 2024, lorsque le chat sortit de la boîte métallique après que Nelyn ait pressé la touche ‘Entrée’ de son clavier. Et le chat était intact. Si on omettait le fait qu’il lui manquait un œil, que sa fourrure avait une couleur verdâtre et sa patte arrière droite des airs de patte de lézard, il était intact.
 La scientifique avait ouvert la porte de la boîte d’une main tremblante, s’interdisant tout soupir soulagé. Même si son chat paraissait entier, il n’était pas question de crier victoire tant qu’elle ne serait pas certaine qu’il allait bien. Tout du moins, aussi bien qu’avant qu’elle ne le soumette à son ultime expérience. Elle fut néanmoins rassurée lorsque la bestiole vint se frotter à elle en miaulant. Elle l’attrapa sous les pattes avant et le prit dans ses bras. Il n’eut pas de réaction inhabituelle&nbsp;; c’est-à-dire, il lui asséna deux coups de griffes.
