@@ -4,6 +4,7 @@ class: texte
 title: "situation amoureuse&nbsp;: c'est compliqué"
 slug: situation-amoureuse-cest-complique
 year: 2025
+date: 2025-01-01 00:00:00 +0000 # needed for RSS feed
 description: "« Je vais te dire, honnêtement, moi je pense qu’il a envie que ça dérape. Il a envie que ça dérape et il espère que TU vas déraper, comme ça, ça ne sera pas de sa faute. »"
 ---
 

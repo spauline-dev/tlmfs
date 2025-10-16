@@ -4,6 +4,7 @@ class: texte
 title: "tout le monde fait semblant"
 slug: tout-le-monde-fait-semblant
 year: 2024
+date: 2024-01-01 00:00:00 +0000 # needed for RSS feed
 description: "Tout le monde fait semblant. Ça sera le titre de mon premier livre. Je le sais depuis la première fois où les adultes m’ont déçue."
 ---
 

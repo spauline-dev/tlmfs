@@ -1,4 +1,23 @@
 .textes
+    .textes-title
+
+        display: flex
+        justify-content: space-between
+        align-items: end
+
+        .rss-link, svg
+            margin-bottom: $h1-margin-bottom
+
+        svg
+            width: .75em
+            padding: 3px
+            fill: $grey
+            border: 1px solid $beige
+            border-radius: $border-radius
+
+            &:hover
+                border-color: $grey
+
     .textes-list
         display: grid
         gap: 1em

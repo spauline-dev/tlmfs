@@ -4,6 +4,7 @@ class: texte
 title: "la lettre"
 slug: la-lettre
 year: 2020
+date: 2020-01-01 00:00:00 +0000 # needed for RSS feed
 description: "Elle regarde nerveusement autour d’elle, avec l’impression que le monde entier sait ce qu’elle va faire. 'Ne me jugez pas. Vous feriez pareil à ma place', pense-t-elle."
 ---
 
