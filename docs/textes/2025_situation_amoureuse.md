@@ -4,6 +4,7 @@ class: texte
 title: "situation amoureuse&nbsp;: c'est compliqué"
 year: 2025
 slug: situation-amoureuse
+description: "« Je vais te dire, honnêtement, moi je pense qu’il a envie que ça dérape. Il a envie que ça dérape et il espère que TU vas déraper, comme ça, ça ne sera pas de sa faute. »"
 ---
 
 **1. INT/NUIT - Appartement de Sasha - Salle de bain**

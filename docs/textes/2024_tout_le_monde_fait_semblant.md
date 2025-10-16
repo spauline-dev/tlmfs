@@ -4,6 +4,7 @@ class: texte
 title: "tout le monde fait semblant"
 year: 2024
 slug: tout-le-monde-fait-semblant
+description: "Tout le monde fait semblant. Ça sera le titre de mon premier livre. Je le sais depuis la première fois où les adultes m’ont déçue."
 ---
 
 *Tout le monde fait semblant.*
