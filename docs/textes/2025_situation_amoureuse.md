@@ -12,14 +12,16 @@ description: "« Je vais te dire, honnêtement, moi je pense qu’il a envie que
 Sasha, seule face à son miroir,  se maquille. Musique punk/rock en fond sur une enceinte.
 Son téléphone émet un bruit de notification. Elle s’interrompt, le rouge à lèvre à moitié appliqué, pour lire le message.
 
-*"Encore désolé pour hier soir. J’espère vraiment qu’on peut rester amis.”*
+*[Maël] "Encore désolé pour hier soir. J’espère vraiment qu’on peut rester amis.”*
 
-Elle soupire, pose le téléphone, et termine d’appliquer le rouge à lèvre. Puis elle reprend son téléphone et répond&nbsp;: *“T’inquiète pas, c’est cool qu’on ait pu en discuter.”*
+Elle soupire, pose le téléphone, et termine d’appliquer le rouge à lèvre. Puis elle reprend son téléphone et répond&nbsp;:
+
+*[Sasha] “T’inquiète pas, c’est cool qu’on ait pu en discuter.”*
 
 Elle commence à se mettre du mascara.
 Nouveau son de notification. Elle ouvre le message.
 
-*“Merci de m’avoir repoussé en tout cas, ça aurait été une belle connerie.”*
+*[Maël] “Merci de m’avoir repoussé en tout cas, ça aurait été une belle connerie.”*
 
 Elle lève les yeux au ciel, et verrouille le téléphone sans répondre, puis attrape un eye-liner et commence à s’en mettre.
 
@@ -210,15 +212,21 @@ Ils rient.
 
 **5. INT/JOUR - Appartement de Sasha - Salon**
 
-Sasha est assise sur le canapé, téléphone à la main, elle est en train de rédiger un message à Maël&nbsp;: *“Hello, je suis désolée mais je pense que c’est mieux si on arrête de se voir, ”*.
-Elle reçoit alors un message de lui&nbsp;: *“C’est fini avec Marion.”*
+Sasha est assise sur le canapé, téléphone à la main, elle est en train de rédiger un message à Maël&nbsp;:
+
+*[Sasha] “Hello, je suis désolée mais je pense que c’est mieux si on arrête de se voir, ”*
+
+Elle reçoit alors un message de lui&nbsp;:
+
+*[Maël] “C’est fini avec Marion.”*
 
 Sasha fixe le message, hésite, puis efface le message qu’elle était en train d’écrire. Elle soupire, regarde de côté, s’apprête à taper un autre message, se ravise.
 
 Sur l’écran s’affiche *“est en train d’écrire”*. Sasha fixe l’écran, les doigts en suspens, elle attend.
 
 Finalement un message de Maël s’affiche&nbsp;:
-*“Tu es dispo ce soir&nbsp;? Faut que je me change les idées.”*
+
+*[Maël] “Tu es dispo ce soir&nbsp;? Faut que je me change les idées.”*
 
 Sasha hésite à nouveau. Elle se pince les lèvres et soupire.
 
@@ -228,15 +236,23 @@ Sasha hésite à nouveau. Elle se pince les lèvres et soupire.
 
 Noé est allongé sur son lit, il regarde ses messages sur son téléphone. On voit qu’il a envoyé plusieurs messages à Etienne, presque tous restés sans réponse&nbsp;: 
 
-*“Yoo, comment ça va&nbsp;? Bien arrivé&nbsp;?”*
-*“Yes, je suis crevé, on se parle plus tard.”*
-*“Ça marche.”*
+*[Noé] “Yoo, comment ça va&nbsp;? Bien arrivé&nbsp;?”*
 
-*“Alors c’est comment la Réunion&nbsp;?”*
-*“Hello, tout roule pour toi&nbsp;?”*
-*“C’est comment ton forfait, ya moyen de s’appeler&nbsp;?”*
+*[Etienne] “Yes, je suis crevé, on se parle plus tard.”*
+
+*[Noé] “Ça marche.”*
+
+*[Noé] “Alors c’est comment la Réunion&nbsp;?”*
+
+*[Noé] “Hello, tout roule pour toi&nbsp;?”*
+
+*[Noé] “C’est comment ton forfait, ya moyen de s’appeler&nbsp;?”*
 
 Il change de conversation et envoie un message à Sasha&nbsp;:
-*“Hey, c’est un peu au dernier moment mais tu es dispo pour se voir ce soir&nbsp;?”*
+
+*[Noé] “Hey, c’est un peu au dernier moment mais tu es dispo pour se voir ce soir&nbsp;?”*
+
 Il pose son téléphone sur le lit et soupire.
-Après quelques secondes, bruit de notification. Il reprend son téléphone et voit que Sasha a répondu *“Non, désolée, pas dispo ce soir.”*
+Après quelques secondes, bruit de notification. Il reprend son téléphone et voit que Sasha a répondu&nbsp;:
+
+*[Sasha] “Non, désolée, pas dispo ce soir.”*
