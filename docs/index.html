@@ -15,7 +15,7 @@ title: accueil
         {% for item in site.data.navigation %}
             {% if item.img %}
                 <a href="{{ item.link }}" class="bg-element {{ item.img }} no-underline">
-                    <img alt="{{ item.name }}" src="/assets/img/{{ item.img }}.png"/>
+                    <img alt="{{ item.name }}" src="/assets/img/originals/{{ item.img }}.png"/>
                 </a>
                 <div class="menu" id="{{ item.id }}" aria-hidden="true">
                     <div class="menu-text-container">{{ item.name }}</div>

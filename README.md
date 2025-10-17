@@ -60,6 +60,12 @@ The version of the site that `jekyll serve` builds in  `_site` is not suited for
 - add styles in `_sass`
 - include all sass files in `assets/css/styles.sass`
 
+## images
+
+### favicon
+
+favicon generated from logo.png, with [realfavicongenerator.net](https://realfavicongenerator.net/)
+
 ## content
 
 ### how to add a text
