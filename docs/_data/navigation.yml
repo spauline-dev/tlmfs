@@ -5,11 +5,14 @@
   link: /textes
   id: menu-textes
   img: fridge
+  width: 320
 - name: à propos
   link: /apropos
   id: menu-apropos
   img: water
+  width: 209
 - name: contact
   link: /contact
   id: menu-contact
   img: drawer
+  width: 153

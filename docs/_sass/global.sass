@@ -47,9 +47,20 @@ hr
     @media screen and (orientation: portrait)
         padding: .5em 0
         height: calc(100% - 1em)
-  
+
 .background-image
-    background-image: url("/assets/img/originals/bg.png")
+    background-image: url('/assets/img/generated/bg-500.jpg') // fallback
+    background-image: url('/assets/img/generated/bg-500.webp')
+    @media (min-width: 500px)
+        background-image: url('/assets/img/generated/bg-1000.jpg') // fallback
+        background-image: url('/assets/img/generated/bg-1000.webp')
+    @media (min-width: 1000px)
+        background-image: url('/assets/img/generated/bg-1500.jpg') // fallback
+        background-image: url('/assets/img/generated/bg-1500.webp')
+    @media (min-width: 1500px)
+        background-image: url('/assets/img/generated/bg-1792.jpg') // fallback
+        background-image: url('/assets/img/generated/bg-1792.webp')
+
     background-repeat: no-repeat
     background-position: center
     background-size: contain

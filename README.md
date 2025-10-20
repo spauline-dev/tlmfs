@@ -66,6 +66,14 @@ The version of the site that `jekyll serve` builds in  `_site` is not suited for
 
 favicon generated from logo.png, with [realfavicongenerator.net](https://realfavicongenerator.net/)
 
+### responsive images
+
+```bash
+./generate_responsive_images.sh
+```
+
+From all images in `docs/assets/img/originals`, creates webp and jpg images in different sizes, in the folder `docs/assets/img/generated`.
+
 ## content
 
 ### how to add a text

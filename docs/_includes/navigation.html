@@ -2,7 +2,9 @@
     <div class="page-links">
         {% for item in site.data.navigation %}
             {% if forloop.first %}
-                <a class="home-link no-underline" href="{{ item.link }}"><img src="/assets/img/originals/logo.png" alt="accueil"/></a>
+                <a class="home-link no-underline" href="{{ item.link }}">
+                    <img srcset="/assets/img/generated/logo-465.webp 465w, /assets/img/generated/logo-465.jpg 465w" src="/assets/img/generated/logo-465.jpg" alt="accueil"/>
+                </a>
             {% else %}
                 <a class="button no-underline" href="{{ item.link }}">{{ item.name }}</a>
             {% endif %}
