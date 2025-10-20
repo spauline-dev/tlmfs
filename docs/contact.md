@@ -38,7 +38,7 @@ slug: contact
                 <input type="checkbox" name="newsletter" aria-describedby="newsletter-help-text">
             </label>
             <div id="newsletter-help-text">
-                Pour être informé par email de la sortie des nouveaux textes, et de mon actualité d'autrice. J'envoie très peu d'emails (1 email par mois grand maximum, très probablement moins car je procrastine beaucoup).
+                Pour être informé par email de la sortie des nouveaux textes, et de mon actualité d'autrice. J'envoie très peu d'emails (quelques-uns par an tout au plus).
             </div>
         </div>
         <button type="submit">envoyer</button>

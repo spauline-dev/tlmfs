@@ -15,7 +15,7 @@ title: accueil
         {% for item in site.data.navigation %}
             {% if item.img %}
                 <a href="{{ item.link }}" class="bg-element {{ item.img }} no-underline">
-                    <img alt="{{ item.name }}" src="/assets/img/originals/{{ item.img }}.png"/>
+                    <img srcset="/assets/img/generated/{{ item.img }}-{{ item.width }}.webp {{ item.width }}w, /assets/img/generated/{{ item.img }}-{{ item.width }}.jpg {{ item.width }}w" src="/assets/img/generated/{{ item.img }}-{{ item.width }}.jpg" alt="{{ item.name }}" />
                 </a>
                 <div class="menu" id="{{ item.id }}" aria-hidden="true">
                     <div class="menu-text-container">{{ item.name }}</div>
