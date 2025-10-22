@@ -2,8 +2,8 @@
 layout: texte
 class: texte
 title: "la lettre"
-year: 2020
 slug: la-lettre
+year: 2020
 description: "Elle regarde nerveusement autour d’elle, avec l’impression que le monde entier sait ce qu’elle va faire. 'Ne me jugez pas. Vous feriez pareil à ma place', pense-t-elle."
 ---
 
