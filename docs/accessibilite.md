@@ -2,7 +2,6 @@
 layout: default
 class: accessibilite
 title: déclaration d'accessibilité
-slug: accessibilite
 ---
 
 # déclaration d'accessibilité
@@ -29,4 +28,4 @@ Le W3C, l'organisme qui met au point les normes et protocoles du web, a créé l
 Si vous n'arrivez pas à accéder à un contenu de ce site, vous pouvez le signaler en contactant&nbsp;: 
 
 - l'autrice via [le formulaire de contact de ce site](/contact) ou [son compte instagram](https://www.instagram.com/toutlemondefaitsemblant/)
-- l'éditrice du site [paulineschmitt.com](https://www.paulineschmitt.com)
+- l'éditrice du site via son site [paulineschmitt.com](https://www.paulineschmitt.com)

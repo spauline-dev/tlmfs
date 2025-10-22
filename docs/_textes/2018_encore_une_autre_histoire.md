@@ -2,8 +2,8 @@
 layout: texte
 class: texte
 title: "encore une autre histoire inachevée"
-year: 2018
 slug: encore-une-autre-histoire-inachevee
+year: 2018
 description: "La procrastination. Elle avait encore frappé. Comme tous les dimanches, j’avais fait une liste des tâches à accomplir dans la semaine, amèrement constaté les dégâts, et décidé que c’était l’heure de s’y mettre."
 ---
 

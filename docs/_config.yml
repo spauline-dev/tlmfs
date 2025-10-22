@@ -7,12 +7,16 @@ includes_dir        : _includes
 sass:
   sass_dir: _sass
   style: compressed
+collections:
+  textes:
+    output: true
+    permalink: /:collection/:slug
 
 kramdown:
   hard_wrap: true
 
 title: "tout le monde fait semblant"
-description: "fictions courtes sur le quotidien et le vide de l'existence. introspectif et désabusé. je crois. c'est pas grave parce que tout le monde fait semblant."
+description: "fictions courtes sur le quotidien et le vide de l'existence. introspectif et désabusé. je crois. c'est pas grave, tout le monde fait semblant."
 url: "https://toutlemondefaitsemblant.fr"
 
 plugins:

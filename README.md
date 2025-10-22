@@ -4,7 +4,7 @@
 
 Le code source de ce site est publié sous la licence [GNU General Public License v3.0](LICENSE).
 
-Cependant, les contenus rédactionnels (textes de fiction) présents sur ce site sont protégés par le droit d’auteur et ne sont **pas** couverts par la licence GPL.  
+Cependant, les contenus rédactionnels (textes de fiction) présents sur ce site sont protégés par le droit d’auteur et ne sont **pas** couverts par la licence GPL.
 Sauf mention contraire, ces textes ne peuvent pas être copiés, modifiés ou réutilisés sans l’autorisation explicite de l'autrice.
 
 Pour toute demande d’utilisation des textes, merci de me contacter.
@@ -78,12 +78,11 @@ From all images in `docs/assets/img/originals`, creates webp and jpg images in d
 
 ### how to add a text
 
-- add file to `/textes`
+- add file to `/_textes`
     - manually add italics with `*text in italic*`
     - manually add unbreakable spaces
         - before `»`, `:`, `;`, `!`, `?` (find and replace  `/space//char/` with `&nbsp;/char/`)
         - after `«`, `--`, `–`, `-` (find and replace  `/char//space/` with `/char/&nbsp;`)
-- update `_data/textes.yml`
 
 ## deployment
 

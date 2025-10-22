@@ -2,20 +2,19 @@
 layout: default
 class: textes
 title: textes
-slug: textes
 ---
 
 # textes
 
 <div class="textes-list">
-{% for texte in site.data.textes %}
-    <a href="{{ texte.link }}" class="no-underline">
+{% for texte in site.textes reversed %}
+    <a href="{{ texte.url }}" class="no-underline">
         <div class="texte-elements">
-            <h2 class="texte-title">    
+            <h2 class="texte-title">
                 {{ texte.title }}
             </h2>
-            <p class="texte-preview">    
-                {{ texte.preview }}
+            <p class="texte-preview">
+                {{ texte.description }}
             </p>
         </div>
         <div class="texte-year">{{ texte.year }}</div>

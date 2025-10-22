@@ -2,7 +2,6 @@
 layout: default
 class: mentionslegales
 title: mentions légales
-slug: mentions-legales
 ---
 
 # mentions légales
