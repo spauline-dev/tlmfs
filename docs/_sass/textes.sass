@@ -18,7 +18,7 @@
             &:hover
                 border-color: $grey
 
-    .textes-list
+    .textes-list-oldest-first, .textes-list-most-recent-first
         display: grid
         gap: 1em
 
@@ -97,7 +97,7 @@
     #toggle-narrow-mode:checked ~ main#main-container > #main-content
         width: $width-narrow-mode
 
-.reading-params
+.reading-params, .textes-sorting-params
     display: flex
     gap: 2em
 
@@ -105,9 +105,13 @@
         font-size: $font-small
         &:hover
             cursor: pointer
+
+.textes-sorting-params
+    justify-content: flex-end
+    margin-bottom: 1em
     
 // hide reading params checkboxes
-#toggle-dark-mode, #toggle-narrow-mode
+#toggle-dark-mode, #toggle-narrow-mode, #toggle-date-sorting
     position: absolute
     left: -10000px
     top: auto
@@ -140,3 +144,33 @@
         left: initial
         top: 9.5em
         right: 12em
+
+// show checkbox at focus for date sorting
+#toggle-date-sorting:focus-visible
+    position: relative
+    float: right
+    z-index: 100
+    width: initial
+    height: initial
+    left: initial
+
+// reverse date order when checkbox checked
+#toggle-date-sorting:checked ~ .textes-list-most-recent-first
+    display: none
+#toggle-date-sorting:checked ~ .textes-list-oldest-first
+    display: grid
+#toggle-date-sorting:checked ~ .textes-sorting-params
+    .most-recent
+        display: inline
+    .oldest
+        display: none
+
+#toggle-date-sorting:not(checked) ~ .textes-list-most-recent-first
+    display: grid
+#toggle-date-sorting:not(checked) ~ .textes-list-oldest-first
+    display: none
+#toggle-date-sorting:not(checked) ~ .textes-sorting-params
+    .most-recent
+        display: none
+    .oldest
+        display: inline
