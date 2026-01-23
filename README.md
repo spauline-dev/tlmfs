@@ -79,6 +79,7 @@ From all images in `docs/assets/img/originals`, creates webp and jpg images in d
 ### how to add a text
 
 - add file to `/_textes`
+    - add header infos (description: about 40 words max)
     - manually add italics with `*text in italic*`
     - manually add unbreakable spaces
         - before `»`, `:`, `;`, `!`, `?` (find and replace  `/space//char/` with `&nbsp;/char/`)
